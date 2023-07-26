@@ -2,7 +2,7 @@
 one summary of diffusion-based image processing, including restoration, enhancement, coding, quality assessment
 A paper list for Anything AI
 
-## Diffusion-based Image Restoration/Enhancement
+## Diffusion model-based Image Restoration/Enhancement
 | Paper | First Author | Intro |  Venue | Topic | Project |
 | :--- | :---: | :--: | :--: |:--: | :--: |
 | [Segment Anything](https://arxiv.org/abs/2304.02643) | | Alexander Kirillov | Preprint'23 | Segmentation | |
