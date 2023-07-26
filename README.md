@@ -1,6 +1,6 @@
 # Awesome-diffusion-image-processing
-one summary of diffusion-based image processing, including restoration, enhancement, coding, quality assessment
-A paper list for Anything AI
+A summary of diffusion model-based image processing, including restoration, enhancement, coding, quality assessment
+
 
 ## Diffusion model-based Image Restoration/Enhancement
 | Paper | First Author | Intro |  Venue | Topic | Project |
