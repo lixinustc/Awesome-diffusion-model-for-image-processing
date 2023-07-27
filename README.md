@@ -1,4 +1,4 @@
-# Awesome-diffusion-image-processing
+# Awesome-diffusion-model-for-image-processing
 A summary of diffusion model-based image processing, including restoration, enhancement, coding, quality assessment
 
 If you want your paper to be collected in this project, please give an issue. 
