@@ -5,12 +5,6 @@ A summary of diffusion model-based image processing, including restoration, enha
 ## Diffusion model-based Image Restoration/Enhancement
 | Paper | First Author | Intro |  Venue | Topic | Project |
 | :--- | :---: | :--: | :--: |:--: | :--: |
-| [Segment Anything](https://arxiv.org/abs/2304.02643) | | Alexander Kirillov | Preprint'23 | Segmentation | |
-| [Learning to Segment Every Thing](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Learning_to_Segment_CVPR_2018_paper.pdf) | Ronghang Hu | |CVPR'18 | |
-| [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/abs/2303.05499) | Shilong Liu | | Preprint'23 | Grouding+Detection | |
-| [SegGPT: Segmenting Everything In Context](https://arxiv.org/abs/2304.03284) | Xinlong Wang| | Preprint'23 | Segmentation  | |
-| [V3Det: Vast Vocabulary Visual Detection Dataset](https://arxiv.org/abs/2304.03752) | Jiaqi Wang| | Preprint'23 |Dataset | |
-| [Pose for Everything: Towards Category-Agnostic Pose Estimation](https://arxiv.org/abs/2207.10387) | Lumin Xu| | ECCV'22 Oral | Pose | |
 | [Image super-resolution via iterative refinement](https://ieeexplore.ieee.org/document/9887996x) | Chitwan Saharia |  | TPAMI2022 | Image Restoration | [Github](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) |
 | [Srdiff: Single image superresolution with diffusion probabilistic models](https://arxiv.org/abs/2104.14951) | Haoying Li |  | Neurocomputing 2022 | Image Restoration | [Github](https://github.com/LeiaLi/SRDiff) |
 | [CDPMSR: Conditional Diffusion Probabilistic Models for Single Image Super-Resolution](https://arxiv.org/abs/2302.12831c) | Axi Niu |  | Preprint'23 | Image Restoration | |
