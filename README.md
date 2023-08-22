@@ -1,5 +1,21 @@
 # Awesome-diffusion-image-processing
-A summary of diffusion model-based image processing, including restoration, enhancement, coding, quality assessment
+
+**Purpose**: We aim to provide a summary of diffusion model-based image processing, including restoration, enhancement, coding, and quality assessment. More papers will be summarized.
+
+
+University of Science and Technology of China (USTC), National University of Singapore (NUS), Microsoft Research Asia (MSRA), Eastern Institute of Technology (EIT) 
+
+**Brief intro**: The survey for diffusion model-based IR has been released.
+
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2308.09388v1.pdf)
+
+
+
+
+## 🌟  Features
+- [x] **Survey for diffusion model-based Image Restoration** 
+- [ ] Summary for diffusion model-based Image/Video Compression
+- [ ] Summary for diffusion model-based Quality Assessment
 
 
 ## Diffusion model-based Image Restoration/Enhancement
