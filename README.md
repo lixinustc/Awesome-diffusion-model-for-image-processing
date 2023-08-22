@@ -89,7 +89,7 @@ University of Science and Technology of China (USTC), National University of Sin
 | [Pseudoinverse-guided diffusion models for inverse problems](https://openreview.net/forum?id=9_gsMA8MRKQ) | Jiaming Song | Zero-shot | ICLR 2023 | Multi-task Restoration | |
 | [Generative diffusion prior for unified image restoration and enhancement](https://openaccess.thecvf.com/content/CVPR2023/papers/Fei_Generative_Diffusion_Prior_for_Unified_Image_Restoration_and_Enhancement_CVPR_2023_paper.pdf) | Ben Fei | Zero-shot | CVPR2023 | Multi-task Restoration | [Github](https://github.com/Fayeben/GenerativeDiffusionPrior) |
 | [Denoising diffusion models for plug-and-play image restoration](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Zhu_Denoising_Diffusion_Models_for_Plug-and-Play_Image_Restoration_CVPRW_2023_paper.pdf) | Yuanzhi Zhu | Zero-shot | CVPR 2023 | Multi-task Restoration | [Github](https://github.com/yuanzhi-zhu/DiffPIR) |
-| [A variational perspective on solving inverse problems with diffusion models](https://arxiv.org/abs/2305.04391) | Morteza Mardani | Zero-shot | PrePrint'22 | Image Inpainting, Image Super-resolution | |
+| [A variational perspective on solving inverse problems with diffusion models](https://arxiv.org/abs/2305.04391) | Morteza Mardani | Zero-shot | PrePrint'22 |Multi-task Restoration| |
 ### Blind Image Restoration
 | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :--: | :--: |:--: | :--: |
