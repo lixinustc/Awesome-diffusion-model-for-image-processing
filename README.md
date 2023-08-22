@@ -1,4 +1,7 @@
-# Awesome-diffusion-image-processing
+<p align="center">
+  <img src="./figures/framework.png" alt="image" style="width:1000px;">
+</p>
+
 
 **Purpose**: We aim to provide a summary of diffusion model-based image processing, including restoration, enhancement, coding, and quality assessment. More papers will be summarized.
 
