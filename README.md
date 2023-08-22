@@ -26,18 +26,18 @@ University of Science and Technology of China (USTC), National University of Sin
 ### Table of contents
 <!-- - [Survey paper](#survey-paper)
 - [Table of contents](#table-of-contents) -->
-- [Diffusion Model for Image Super resolution](#Image-super-resolution)
-- [Diffusion model for Image Denoising](#Image-Denoising)
-- [Diffusion Model for Image Deblurring](#Image-Deblurring)
-- [Diffusion Model for Image Inpainting](#Image-Inpainting)
-- [Diffusion model for Image Shadow Removal](#Image-Shadow-Removal)
-- [Diffusion model for Multi-task IR](#Image-Multitask-Restoration)
-- [Diffusion model for Blind IR](#deep-face-deblurring)
-- [Diffusion model for Medical IR](#Medical-Image-Restoration)
+- [Diffusion Model for Image Super resolution](#image-super-resolution)
+- [Diffusion model for Image Denoising](#image-denosing)
+- [Diffusion Model for Image Deblurring](#image-deblurring)
+- [Diffusion Model for Image Inpainting](#image-inpainting)
+- [Diffusion model for Image Shadow Removal](#image-shadow-removal)
+- [Diffusion model for Multi-task IR](#image-multi-task-restoration)
+- [Diffusion model for Blind IR](#blind-image-restoration)
+- [Diffusion model for Medical IR](#medical-restoration-mrict)
 - [Diffusion model for other tasks](#other-tasks)
 - [Benchmark Datasets](#benchmark-datasets)
-  - [Recommended Datasets](#recommended-datasets)
-  - [All Datasets](#all-datasets)
+  <!-- - [Recommended Datasets](#recommended-datasets)
+  - [All Datasets](#all-datasets) -->
 
 ### Image Super-Resolution
 | Paper | First Author | Training Way | Venue | Topic | Project |
