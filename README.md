@@ -121,3 +121,45 @@ University of Science and Technology of China (USTC), National University of Sin
 | [Lowlight image enhancement with wavelet-based diffusion models](https://arxiv.org/abs/2306.00306) | Hai Jiang | Supervised | Preprint'23 | Low-light Enhancemnent | |
 | [RainDiffusion: When Unsupervised Learning Meets Diffusion Models for Real-world Image Deraining](https://arxiv.org/abs/2301.09430) | Mingqiang Wei | Supervised | Preprint'23 | Image Deraining| |
 ### Benchmark Datasets
+|Dataset|Task|Usage|Year|
+|:----:|:----:|:----:|:----:|
+|[DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K)|Image Super-resolution|Training,Testing|2017|
+|[Flickr2K](https://www.kaggle.com/datasets/daehoyang/flickr2k)|Image Super-resolution|Training|2017|
+|[Set5](https://www.kaggle.com/datasets/daehoyang/flickr2k)|Image Super-resolution|Testing|2012|
+|[Set14](https://www.kaggle.com/datasets/daehoyang/flickr2k)|Image Super-resolution|Testing|2012|
+|[BSD100](https://www.kaggle.com/datasets/daehoyang/flickr2k)|Image Super-resolution|Testing|2012|
+|[Manga109](https://www.kaggle.com/datasets/daehoyang/flickr2k)|Image Super-resolution|Testing|2015|
+|[Urban100](https://www.kaggle.com/datasets/daehoyang/flickr2k)|Image Super-resolution|Testing|2015|
+|[OST300](https://www.kaggle.com/datasets/daehoyang/flickr2k)|Image Super-resolution|Testing|2018|
+|[DIV8K](https://data.vision.ee.ethz.ch/cvl/DIV2K)|Image Super-resolution|Training,Testing|2019|
+|[RealSR](https://data.vision.ee.ethz.ch/cvl/DIV2K)|Image Super-resolution|Training,Testing|2019|
+|[DRealSR](https://data.vision.ee.ethz.ch/cvl/DIV2K)|Image Super-resolution|Training,Testing|2020|
+|[GoPro]()|Image Deblurring|Training,Testing|2017|
+|[HIDE]()|Image Deblurring|Training,Testing|2019|
+|[RealBlur](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700188.pdf)|Image Deblurring|Training,Testing|2020|
+|[Kodak](https://r0k.us/graphics/kodak/)|Image Denoising|Testing|1999|
+|[CBSD68](https://ieeexplore.ieee.org/document/937655)|Image Denoising|Testing|2001|
+|[McMaster](https://www4.comp.polyu.edu.hk/~cslzhang/paper/NAT_CDM_JEI.pdf)|Image Denoising|Testing|2011|
+|[ImageNet](https://arxiv.org/abs/1409.0575)|Image Classification|Training,Testing|2010|
+|[ImageNet1k](https://arxiv.org/abs/1409.0575)|Image Classification|Testing|2020|
+|[LSUN](https://arxiv.org/abs/1506.03365)|Image Classification|Training,Testing|2015|
+|[Places365](https://arxiv.org/abs/1909.02410)|Image Classification|Training,Testing|2019|
+|[LFW](http://vis-www.cs.umass.edu/lfw/lfw.pdf)|Face Generation|Training|2008|
+|[FFHQ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)|Face Generation|Training|2019|
+|[Celeba-HQ](https://arxiv.org/abs/1710.10196)|Face Generation|Training|2018|
+|[AFHQ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_StarGAN_v2_Diverse_Image_Synthesis_for_Multiple_Domains_CVPR_2020_paper.pdf)|Face Generation|Training|2020|
+|[CelebA](https://openaccess.thecvf.com/content_iccv_2015/papers/Liu_Deep_Learning_Face_ICCV_2015_paper.pdf)|Face Generation|Training|2015|
+|[ISTD](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Stacked_Conditional_Generative_CVPR_2018_paper.pdf)|Image Shadow Removal|Training,Testing|2018|
+|[SRD](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qu_DeshadowNet_A_Multi-Context_CVPR_2017_paper.pdf)|Image Shadow Removal|Training,Testing|2017|
+|[CSD](https://ieeexplore.ieee.org/abstract/document/8492363/)|Image Desnowing|Training,Testing|2021|
+|[Snow100k](https://arxiv.org/abs/1708.04512)|Image Desnowing|Training,Testing|2017|
+|[SRRS](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660749.pdf)|Image Desnowing|Training,Testing|2020|
+|[RainDrop](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)|Image Deraining|Training|2018|
+|[Outdoor-Rain](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)|Image Deraining|Training,Testing|2019|
+|[DDN-data](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)|Image Deraining|Training,Testing|2017|
+|[SPA-data](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Spatial_Attentive_Single-Image_Deraining_With_a_High_Quality_Real_Rain_CVPR_2019_paper.pdf)|Image Deraining|Training,Testing|2019|
+|[Rain100H](https://arxiv.org/abs/1609.07769)|Image Deraining|Training,Testing|2017|
+|[Rain100L](https://arxiv.org/abs/1609.07769)|Image Deraining|Training,Testing|2017|
+|[Haze-4K](https://arxiv.org/pdf/2108.02934.pdf)|Image Dehazing|Training|2021|
+|[Dense-Haze](https://arxiv.org/pdf/1904.02904.pdf)|Image Dehazing|Training|2019|
+|[RESIDE](https://arxiv.org/pdf/1712.04143.pdf)|Image Dehazing|Training|2019|
