@@ -26,10 +26,10 @@ University of Science and Technology of China (USTC), National University of Sin
 ### Table of contents
 <!-- - [Survey paper](#survey-paper)
 - [Table of contents](#table-of-contents) -->
-- [Diffusion Model for Image Super resolution](#image-super-resolution)
+- [Diffusion model for Image Super resolution](#image-super-resolution)
 - [Diffusion model for Image Denoising](#image-denosing)
-- [Diffusion Model for Image Deblurring](#image-deblurring)
-- [Diffusion Model for Image Inpainting](#image-inpainting)
+- [Diffusion model for Image Deblurring](#image-deblurring)
+- [Diffusion model for Image Inpainting](#image-inpainting)
 - [Diffusion model for Image Shadow Removal](#image-shadow-removal)
 - [Diffusion model for Multi-task IR](#image-multi-task-restoration)
 - [Diffusion model for Blind IR](#blind-image-restoration)
