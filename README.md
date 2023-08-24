@@ -14,7 +14,6 @@ University of Science and Technology of China (USTC), National University of Sin
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2308.09388v1.pdf)
 
 
-**📌 About new works!!!**  If you want to share your works on diffusion model-based image processing, please do not hesitate to contact us through issues of this repository or email !!!!!! We will incorporate it into this repository and our survey report as soon as possible. Thanks. 
 
 
 ## 🌟  Features
@@ -51,7 +50,11 @@ University of Science and Technology of China (USTC), National University of Sin
 |DiffIR| [DiffIR: Efficient diffusion model for image restoration](https://arxiv.org/abs/2303.09472) | Bin Xia | Supervised | Preprint'23 | Super-resolution | |
 |CDM| [Cascaded Diffusion Models for High Fidelity Image Generation](https://arxiv.org/abs/2106.15282) | Jonathan Ho | Supervised | J.Mach.Learn.Res.2022 | Super-resolution | |
 |StableSR| [Exploiting diffusion prior for real-world image super-resolution](https://arxiv.org/abs/2305.07015) | Jianyi Wang | Supervised | Preprint'23 | Real-World Super-resolution | [Github](https://github.com/IceClear/StableSR)|
-|SR3+| [Denoising diffusion probabilistic models for robust image super-resolution in the wild](https://arxiv.org/abs/2302.07864) | Hshmat Sahak | Supervised | Preprint'23 | Real-World Super-resolution | |
+|SR3+| [Denoising diffusion probabilistic models for robust image super-resolution in the wild](https://arxiv.org/abs/2302.07864) | Hshmat Sahak | Supervised | Preprint'23 | (Real-World) Super-resolution | |
+|ResShift| [ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting](https://arxiv.org/pdf/2307.12348.pdf) | Zongsheng Yue | Supervised | Preprint'23 | Real-World Super-resolution | [Github](https://github.com/zsyOAOA/ResShift)|
+|PartDiff| [PartDiff: Image Super-resolution with Partial Diffusion Models](https://arxiv.org/abs/2307.11926) | Kai Zhao | Supervised | Preprint'23 | Super-resolution | |
+|Diwa| [Waving Goodbye to Low-Res: A Diffusion-Wavelet Approach for Image Super-Resolution](https://arxiv.org/abs/2304.01994) | Brian Moser | Supervised | Preprint'23 | Super-resolution | |
+|YODA| [YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution](https://arxiv.org/pdf/2308.07977v1.pdf) | Brian B. Moser | Supervised | Preprint'23 | Super-resolution | |
 ### Image Deblurring
 | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :--: | :--: |:--: | :--: |
