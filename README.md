@@ -32,7 +32,7 @@ University of Science and Technology of China (USTC), National University of Sin
 - [Diffusion model for Image Inpainting](#image-inpainting)
 - [Diffusion model for Image Shadow Removal](#image-shadow-removal)
 - [Diffusion model for Multi-task IR](#image-multi-task-restoration)
-- [Diffusion model for Blind IR](#blind-image-restoration)
+- [Diffusion model for Blind IR](#blindreal-world-image-restoration)
 - [Diffusion model for Medical IR](#medical-restoration-mrict)
 - [Diffusion model for other tasks](#other-tasks)
 - [Benchmark Datasets](#benchmark-datasets)
@@ -90,7 +90,7 @@ University of Science and Technology of China (USTC), National University of Sin
 | [Generative diffusion prior for unified image restoration and enhancement](https://openaccess.thecvf.com/content/CVPR2023/papers/Fei_Generative_Diffusion_Prior_for_Unified_Image_Restoration_and_Enhancement_CVPR_2023_paper.pdf) | Ben Fei | Zero-shot | CVPR2023 | Multi-task Restoration | [Github](https://github.com/Fayeben/GenerativeDiffusionPrior) |
 | [Denoising diffusion models for plug-and-play image restoration](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Zhu_Denoising_Diffusion_Models_for_Plug-and-Play_Image_Restoration_CVPRW_2023_paper.pdf) | Yuanzhi Zhu | Zero-shot | CVPR 2023 | Multi-task Restoration | [Github](https://github.com/yuanzhi-zhu/DiffPIR) |
 | [A variational perspective on solving inverse problems with diffusion models](https://arxiv.org/abs/2305.04391) | Morteza Mardani | Zero-shot | PrePrint'22 |Multi-task Restoration| |
-### Blind Image Restoration
+### Blind/Real-World Image Restoration
 | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :--: | :--: |:--: | :--: |
 | [Denoising diffusion probabilistic models for robust image super-resolution in the wild](https://arxiv.org/abs/2302.07864) | Hshmat Sahak | Supervised | Preprint'23 | Blind Restoration | |
