@@ -32,7 +32,7 @@ University of Science and Technology of China (USTC), National University of Sin
 - [Diffusion model for Image Inpainting](#image-inpainting)
 - [Diffusion model for Image Shadow Removal](#image-shadow-removal)
 - [Diffusion model for Image Restoration](#image-restoration)
-- [Diffusion model for Image Denoising](#image-denosing)
+- [Diffusion model for Image Denoising](#image-denoising)
 - [Diffusion model for Medical IR](#medical-restoration-mrict)
 - [Diffusion model for other tasks](#other-tasks)
 - [Benchmark Datasets](#benchmark-datasets)
@@ -100,7 +100,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |GibbsDDRM|[GibbsDDRM: A partially collapsed gibbs sampler for solving blind inverse problems with denoising diffusion restoration](https://arxiv.org/abs/2301.12686) | Naoki Murata | Zero-shot | PrePrint'23 | Blind Restoration | |
 |ADIR|[ADIR: Adaptive diffusion for image reconstruction](https://arxiv.org/abs/2212.03221) | Shady Abu-Hussein | Zero-shot | PrePrint'22 | Blind Restoration | |
 |--|[Synthesizing realistic image restoration training pairs: A diffusion approach](https://arxiv.org/abs/2303.06994) | Tao Yang | Supervised | Preprint'22 | Blind Restoration | |
-### Image Denosing
+### Image Denoising
 | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :--: | :--: |:--: | :--: |
 | [Diffusion model for generative image denoising](https://arxiv.org/abs/2302.02398) | Yutong Xie | Supervised | Preprint'23 | Image Denoising | |
