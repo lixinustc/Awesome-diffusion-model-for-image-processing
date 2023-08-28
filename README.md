@@ -65,7 +65,7 @@ University of Science and Technology of China (USTC), National University of Sin
 | [Deblurring via stochastic refinement](https://openaccess.thecvf.com/content/CVPR2022/papers/Whang_Deblurring_via_Stochastic_Refinement_CVPR_2022_paper.pdf) | Jay Whang| Supervised | CVPR2022 | Image Deblurring | |
 |[Score-Based Diffusion Models as Principled Priors for Inverse Imaging](https://arxiv.org/abs/2304.11751) | Berthy T. Feng | Zero-shot | PrePrint'23 | Image Denoising, Image Deblurring | |
 |BlindDPS:[Parallel diffusion models of operator and image for blind inverse problems](https://openaccess.thecvf.com/content/CVPR2023/papers/Chung_Parallel_Diffusion_Models_of_Operator_and_Image_for_Blind_Inverse_CVPR_2023_paper.pdf) | Hyungjin Chung | Zero-shot | CVPR2023 | Blind Deblurring | [Github](https://github.com/BlindDPS/blind-dps) |
-|HI-Diff|[Hierarchical Integration Diffusion Model for Realistic Image Deblurring](https://arxiv.org/abs/2305.12966) | Zheng Chen | Supervised | Prepreint'23 | Image Deblurring |[Github](https://github.com/zhengchen1999/HI-Diff)|
+|HI-Diff:[Hierarchical Integration Diffusion Model for Realistic Image Deblurring](https://arxiv.org/abs/2305.12966) | Zheng Chen | Supervised | Prepreint'23 | Image Deblurring |[Github](https://github.com/zhengchen1999/HI-Diff)|
 ### Image Inpainting
 |Model| Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
