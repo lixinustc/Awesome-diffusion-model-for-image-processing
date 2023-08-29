@@ -33,10 +33,11 @@ University of Science and Technology of China (USTC), National University of Sin
 - [Diffusion model for Image Inpainting](#image-inpainting)
 - [Diffusion model for Image Shadow Removal](#image-shadow-removal)
 - [Diffusion model for Image Restoration](#image-restoration)
-- [Diffusion model for Image Denoising](#image-denosing)
+- [Diffusion model for Image Denoising](#image-denoising)
 - [Diffusion model for Medical IR](#medical-restoration-mrict)
 - [Diffusion model for other tasks](#other-tasks)
 - [Benchmark Datasets](#benchmark-datasets)
+- [Diffusion model for Image/video compression](#compression)
   <!-- - [Recommended Datasets](#recommended-datasets)
   - [All Datasets](#all-datasets) -->
 
@@ -106,7 +107,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |PSLD|[ASolving Linear Inverse Problems Provably via Posterior Sampling with Latent Diffusion Models](https://arxiv.org/abs/2307.00619) | Litu Rout | Zero-shot | PrePrint'23 | Image Restoration | [Github](https://github.com/LituRout/PSLD) |
 |IDM|[Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond](https://arxiv.org/abs/2307.08996) | Yang Zhao| Supervised | PrePrint'23 | Face Restoration ||
 |--|[Synthesizing realistic image restoration training pairs: A diffusion approach](https://arxiv.org/abs/2303.06994) | Tao Yang | Supervised | Preprint'22 | Blind Restoration | |
-### Image Denosing
+### Image Denoising
 | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :--: | :--: |:--: | :--: |
 | [Diffusion model for generative image denoising](https://arxiv.org/abs/2302.02398) | Yutong Xie | Supervised | Preprint'23 | Image Denoising | |
@@ -172,7 +173,9 @@ University of Science and Technology of China (USTC), National University of Sin
 |[Dense-Haze](https://arxiv.org/pdf/1904.02904.pdf)|Image Dehazing|Training|2019|
 |[RESIDE](https://arxiv.org/pdf/1712.04143.pdf)|Image Dehazing|Training|2019|
 
+
 ## Diffusion model-based Image/Video Compression
+<a id="compression"></a>
 |Model| Paper | First Author | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: |
 |DiffC| [Lossy Compression with Gaussian Diffusion](https://arxiv.org/abs/2206.08889) | Lucas Theisl | Preprint'22 | Lossy Image Compression | |
