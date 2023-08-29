@@ -187,7 +187,7 @@ University of Science and Technology of China (USTC), National University of Sin
 
 ## Cite US
 
-If this work is helpful to you, we expect you can cite the work and star this repo. Thanks.
+If this work is helpful to you, we expect you can cite this work and star this repo. Thanks.
 
 ```
 @article{li2023diffusion,
