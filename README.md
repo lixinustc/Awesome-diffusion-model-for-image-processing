@@ -174,7 +174,7 @@ University of Science and Technology of China (USTC), National University of Sin
 
 ## Diffusion model-based Image/Video Compression
 |Model| Paper | First Author | Venue | Topic | Project |
-| :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+| :--- | :---: | :---: | :--: | :--: |:--: |
 |DiffC| [Lossy Compression with Gaussian Diffusion](https://arxiv.org/abs/2206.08889) | Lucas Theisl | Preprint'22 | Lossy Image Compression | |
 |--| [Lossy Image Compression with Conditional Diffusion Models](https://arxiv.org/abs/2209.06950) | Ruihan Yang | Preprint'22 | Lossy Image Compression | |
 |--| [Extreme Generative Image Compression by Learning Text Embedding from Diffusion Models](https://arxiv.org/abs/2211.07793) | Zhihong Pan | Preprint'22 | Image Compression | |
