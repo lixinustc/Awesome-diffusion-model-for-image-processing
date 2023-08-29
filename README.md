@@ -19,7 +19,7 @@ University of Science and Technology of China (USTC), National University of Sin
 
 ## 🌟  Features
 - [x] **Survey for diffusion model-based Image Restoration** (Arxiv version is released) 
-- [ ] Summary for diffusion model-based Image/Video Compression
+- [x] **Summary for diffusion model-based Image/Video Compression**
 - [ ] Summary for diffusion model-based Quality Assessment
 
 
