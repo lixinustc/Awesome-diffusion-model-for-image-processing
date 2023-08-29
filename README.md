@@ -182,6 +182,19 @@ University of Science and Technology of China (USTC), National University of Sin
 |HFD| [High-Fidelity Image Compression with Score-based Generative Models](https://arxiv.org/abs/2305.18231) | Emiel Hoogeboom | Preprint'23 | Lossy Image Compression | |
 |PIC| [Text + Sketch: Image Compression at Ultra Low Rates](https://arxiv.org/abs/2307.01944) | Eric Lei | Preprint'23 | Lossy Image Compression | |
 
+## Cite US
+
+If this work is helpful to you, we expect you can cite the work and star this repo. Thanks.
+
+```
+@article{li2023diffusion,
+  title={Diffusion Models for Image Restoration and Enhancement--A Comprehensive Survey},
+  author={Li, Xin and Ren, Yulin and Jin, Xin and Lan, Cuiling and Wang, Xingrui and Zeng, Wenjun and Wang, Xinchao and Chen, Zhibo},
+  journal={arXiv preprint arXiv:2308.09388},
+  year={2023}
+}
+```
+
 
 
 
