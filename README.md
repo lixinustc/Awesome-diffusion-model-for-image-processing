@@ -13,7 +13,7 @@ University of Science and Technology of China (USTC), National University of Sin
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2308.09388v1.pdf)
 
-:bookmark: News!!!
+## :bookmark: News!!!
 - [x] 2023-09-19: **Updated new related works before 15/09/2023 in this GitHub.**
 
 
