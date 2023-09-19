@@ -34,6 +34,7 @@ University of Science and Technology of China (USTC), National University of Sin
 - [Diffusion model for Image Shadow Removal](#image-shadow-removal)
 - [Diffusion model for Image Restoration](#image-restoration)
 - [Diffusion model for Image Denoising](#image-denoising)
+- [Diffusion model for Image Denoising](#image-dehazing)
 - [Diffusion model for Medical IR](#medical-restoration-mrict)
 - [Diffusion model for Low-Light Enchancement](#low-light-enchancement)
 - [Diffusion model for other tasks](#other-tasks)
@@ -45,96 +46,116 @@ University of Science and Technology of China (USTC), National University of Sin
 ### Image Super-Resolution
 |Models| Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
-|SR3| [Image super-resolution via iterative refinement](https://ieeexplore.ieee.org/document/9887996x) | Chitwan Saharia | Supervised |TPAMI2022 | Super-resolution | [Github](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) |
-|SRDiff|[SRDiff: Single Image Super-Resolution with Diffusion Probabilistic Models](https://arxiv.org/abs/2104.14951) | Haoying Li | Supervised | Neurocomputing 2022 | Super-resolution | [Github](https://github.com/LeiaLi/SRDiff) |
+|SR3| [Image super-resolution via iterative refinement](https://ieeexplore.ieee.org/document/9887996x) | Chitwan Saharia | Supervised |TPAMI2022 | Super-resolution | [![Stars](https://img.shields.io/github/stars/Janspiry/Image-Super-Resolution-via-Iterative-Refinement.svg?style=social&label=Star)](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) |
+|SRDiff|[SRDiff: Single Image Super-Resolution with Diffusion Probabilistic Models](https://arxiv.org/abs/2104.14951) | Haoying Li | Supervised | Neurocomputing 2022 | Super-resolution | [![Stars](https://img.shields.io/github/stars/LeiaLi/SRDiff.svg?style=social&label=Star)](https://github.com/LeiaLi/SRDiff) |
 |CDPMSR| [CDPMSR: Conditional Diffusion Probabilistic Models for Single Image Super-Resolution](https://arxiv.org/abs/2302.12831c) | Axi Niu | Supervised | Preprint'23 | Super-resolution | |
 |ResDiff| [ResDiff: Combining cnn and diffusion model for image superresolution](https://arxiv.org/abs/2303.08714) | Shuyao Shang | Supervised | Preprint'23 | Super-resolution | |
-|SDE-SR| [Face super-resolution using stochastic differential equations](https://arxiv.org/abs/2209.12064) | Marcelo dos Santos | Supervised | SIBGRAPI 2022 | Super-resolution | [Github](https://github.com/marcelowds/sr-sde) |
-|IDM| [Implicit diffusion models for continuous super-resolution](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Implicit_Diffusion_Models_for_Continuous_Super-Resolution_CVPR_2023_paper.pdf) | Sicheng Gao | Supervised | CVPR2023 | Super-resolution | [Github](https://github.com/Ree1s/IDM) |
+|SDE-SR| [Face super-resolution using stochastic differential equations](https://arxiv.org/abs/2209.12064) | Marcelo dos Santos | Supervised | SIBGRAPI 2022 | Super-resolution | [![Stars](https://img.shields.io/github/stars/marcelowds/sr-sde.svg?style=social&label=Star)](https://github.com/marcelowds/sr-sde) |
+|IDM| [Implicit diffusion models for continuous super-resolution](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Implicit_Diffusion_Models_for_Continuous_Super-Resolution_CVPR_2023_paper.pdf) | Sicheng Gao | Supervised | CVPR2023 | Super-resolution | [![Stars](https://img.shields.io/github/stars/Ree1s/IDM.svg?style=social&label=Star)](https://github.com/Ree1s/IDM) |
 |ACDPMSR| [ACDMSR: Accelerated Conditional Diffusion Models for Single Image Super-Resolution](https://arxiv.org/abs/2307.00781) | Axi Niu | Supervised | Preprint'23|Super-resolution| |
 |DiffIR| [DiffIR: Efficient diffusion model for image restoration](https://arxiv.org/abs/2303.09472) | Bin Xia | Supervised | ICCV 2023 | Super-resolution | |
 |CDM| [Cascaded Diffusion Models for High Fidelity Image Generation](https://arxiv.org/abs/2106.15282) | Jonathan Ho | Supervised | J.Mach.Learn.Res.2022 | Super-resolution | |
-|StableSR| [Exploiting diffusion prior for real-world image super-resolution](https://arxiv.org/abs/2305.07015) | Jianyi Wang | Supervised | Preprint'23 | Real-World Super-resolution | [Github](https://github.com/IceClear/StableSR)|
+|StableSR| [Exploiting diffusion prior for real-world image super-resolution](https://arxiv.org/abs/2305.07015) | Jianyi Wang | Supervised | Preprint'23 | Real-World Super-resolution | [![Stars](https://img.shields.io/github/stars/IceClear/StableSR.svg?style=social&label=Star)](https://github.com/IceClear/StableSR)|
 |SR3+| [Denoising diffusion probabilistic models for robust image super-resolution in the wild](https://arxiv.org/abs/2302.07864) | Hshmat Sahak | Supervised | Preprint'23 | (Real-World) Super-resolution | |
-|ResShift| [ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting](https://arxiv.org/pdf/2307.12348.pdf) | Zongsheng Yue | Supervised | Preprint'23 | Real-World Super-resolution | [Github](https://github.com/zsyOAOA/ResShift)|
+|ResShift| [ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting](https://arxiv.org/pdf/2307.12348.pdf) | Zongsheng Yue | Supervised | Preprint'23 | Real-World Super-resolution | [![Stars](https://img.shields.io/github/stars/zsyOAOA/ResShift.svg?style=social&label=Star)](https://github.com/zsyOAOA/ResShift)|
 |PartDiff| [PartDiff: Image Super-resolution with Partial Diffusion Models](https://arxiv.org/abs/2307.11926) | Kai Zhao | Supervised | Preprint'23 | Super-resolution | |
 |Diwa| [Waving Goodbye to Low-Res: A Diffusion-Wavelet Approach for Image Super-Resolution](https://arxiv.org/abs/2304.01994) | Brian Moser | Supervised | Preprint'23 | Super-resolution | |
 |YODA| [YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution](https://arxiv.org/pdf/2308.07977v1.pdf) | Brian B. Moser | Supervised | Preprint'23 | Super-resolution | |
 |--| [Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution](https://arxiv.org/abs/2305.15357) | Yiyang Ma | Supervised | Preprint'23 | Super-resolution | |
+|TextDiff| [TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution](https://arxiv.org/abs/2308.06743) | Baolin Liu | Supervised | Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/Lenubolim/TextDiff.svg?style=social&label=Star)](https://github.com/Lenubolim/TextDiff) |
+|PASD| [Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization](https://arxiv.org/abs/2308.14469) | Tao Yang | Supervised | Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/yangxy/pasd.svg?style=social&label=Star)](https://github.com/yangxy/pasd) |
 ### Image Deblurring
 | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :--: | :--: |:--: | :--: |
 | [Deblurring via stochastic refinement](https://openaccess.thecvf.com/content/CVPR2022/papers/Whang_Deblurring_via_Stochastic_Refinement_CVPR_2022_paper.pdf) | Jay Whang| Supervised | CVPR2022 | Image Deblurring | |
 |[Score-Based Diffusion Models as Principled Priors for Inverse Imaging](https://arxiv.org/abs/2304.11751) | Berthy T. Feng | Zero-shot | PrePrint'23 | Image Denoising, Image Deblurring | |
-|BlindDPS:[Parallel diffusion models of operator and image for blind inverse problems](https://openaccess.thecvf.com/content/CVPR2023/papers/Chung_Parallel_Diffusion_Models_of_Operator_and_Image_for_Blind_Inverse_CVPR_2023_paper.pdf) | Hyungjin Chung | Zero-shot | CVPR2023 | Blind Deblurring | [Github](https://github.com/BlindDPS/blind-dps) |
-|HI-Diff:[Hierarchical Integration Diffusion Model for Realistic Image Deblurring](https://arxiv.org/abs/2305.12966) | Zheng Chen | Supervised | Prepreint'23 | Image Deblurring |[Github](https://github.com/zhengchen1999/HI-Diff)|
+|BlindDPS:[Parallel diffusion models of operator and image for blind inverse problems](https://openaccess.thecvf.com/content/CVPR2023/papers/Chung_Parallel_Diffusion_Models_of_Operator_and_Image_for_Blind_Inverse_CVPR_2023_paper.pdf) | Hyungjin Chung | Zero-shot | CVPR2023 | Blind Deblurring | [![Stars](https://img.shields.io/github/stars/BlindDPS/blind-dps.svg?style=social&label=Star)](https://github.com/BlindDPS/blind-dps) |
+|HI-Diff:[Hierarchical Integration Diffusion Model for Realistic Image Deblurring](https://arxiv.org/abs/2305.12966) | Zheng Chen | Supervised | Prepreint'23 | Image Deblurring |[![Stars](https://img.shields.io/github/stars/zhengchen1999/HI-Diff.svg?style=social&label=Star)](https://github.com/zhengchen1999/HI-Diff)|
 ### Image Inpainting
 |Model| Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
-|RePaint| [RePaint: Inpainting using denoising diffusion probabilistic models](https://openaccess.thecvf.com/content/CVPR2022/papers/Lugmayr_RePaint_Inpainting_Using_Denoising_Diffusion_Probabilistic_Models_CVPR_2022_paper.pdf) | Andreas Lugmayr  | Zero-shot | CVPR2022 | Image Inpainting | [Github](https://github.com/andreas128/RePaint) | 
-|CoPaint| [Towards coherent image inpainting using denoising diffusion implicit models](https://arxiv.org/abs/2304.03322) | Guanhua Zhang | Zero-shot | PrePrint'23 | Image Inpainting | [Github](https://github.com/UCSB-NLP-Chang/CoPaint) |
+|RePaint| [RePaint: Inpainting using denoising diffusion probabilistic models](https://openaccess.thecvf.com/content/CVPR2022/papers/Lugmayr_RePaint_Inpainting_Using_Denoising_Diffusion_Probabilistic_Models_CVPR_2022_paper.pdf) | Andreas Lugmayr  | Zero-shot | CVPR2022 | Image Inpainting | [![Stars](https://img.shields.io/github/stars/andreas128/RePaint.svg?style=social&label=Star)](https://github.com/andreas128/RePaint) | 
+|CoPaint| [Towards coherent image inpainting using denoising diffusion implicit models](https://arxiv.org/abs/2304.03322) | Guanhua Zhang | Zero-shot | PrePrint'23 | Image Inpainting | [![Stars](https://img.shields.io/github/stars/UCSB-NLP-Chang/CoPaint.svg?style=social&label=Star)](https://github.com/UCSB-NLP-Chang/CoPaint) |
 ### Image Shadow Removal 
 | Model| Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 |DeS3| [DeS3: Attention-driven Self and Soft Shadow Removal using ViT Similarity and Color Convergence](https://arxiv.org/abs/2211.08089) | Yeying Jin | Supervised | Preprint'23 | Image Shadow Removal | |
-|ShadowDiffusion| [Shadowdiffusion: When degradation prior meets diffusion model for shadow removal](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_ShadowDiffusion_When_Degradation_Prior_Meets_Diffusion_Model_for_Shadow_Removal_CVPR_2023_paper.pdf) | Lanqing Guo | Supervised | CVPR2023 | Image Shadow Removal |[Github](https://github.com/GuoLanqing/ShadowDiffusion) |
+|ShadowDiffusion| [Shadowdiffusion: When degradation prior meets diffusion model for shadow removal](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_ShadowDiffusion_When_Degradation_Prior_Meets_Diffusion_Model_for_Shadow_Removal_CVPR_2023_paper.pdf) | Lanqing Guo | Supervised | CVPR2023 | Image Shadow Removal |[![Stars](https://img.shields.io/github/stars/GuoLanqing/ShadowDiffusion.svg?style=social&label=Star)](https://github.com/GuoLanqing/ShadowDiffusion) |
 ### Image Restoration
 | Model | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :--- | :---: | :--: | :--: |:--: | :--: |
-|Palette| [Palette: Image-toimage diffusion models](https://arxiv.org/abs/2111.05826) | Chitwan Saharia | Supervised | SIGGRAPH 2022 | Multi-task Restoration | [Github](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models) |
+|Palette| [Palette: Image-toimage diffusion models](https://arxiv.org/abs/2111.05826) | Chitwan Saharia | Supervised | SIGGRAPH 2022 | Multi-task Restoration | [![Stars](https://img.shields.io/github/stars/Janspiry/Palette-Image-to-Image-Diffusion-Models.svg?style=social&label=Star)](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models) |
 |Refusion| [Refusion: Enabling large-size realistic image restoration with latent-space diffusion models](https://arxiv.org/abs/2304.08291) | Ziwei Luo | Supervised | CVPRW 2023 | Multi-task Restoration | |
 |InDI| [Inversion by direct iteration: An alternative to denoising diffusion for image restoration](https://arxiv.org/abs/2303.11435) | Mauricio Delbracio | Supervised | Preprint'22 | Multi-task Restoration | |
-|Weather-Diff| [Restoring vision in adverse weather conditions with patch-based denoising diffusion models](https://arxiv.org/abs/2207.14626) | Ozan Özdenizci | Supervised | TPAMI2022 | Multi-task Restoration | [Github](https://github.com/IGITUGraz/WeatherDiffusion) |
-|IR-SDE| [Image Restoration with Mean-Reverting Stochastic Differential Equations](https://arxiv.org/abs/2301.11699) | Ziwei Luo | Supervised | ICML 2023 | Multi-task Restoration | [Github](https://github.com/Algolzw/image-restoration-sde) |
+|Weather-Diff| [Restoring vision in adverse weather conditions with patch-based denoising diffusion models](https://arxiv.org/abs/2207.14626) | Ozan Özdenizci | Supervised | TPAMI2022 | Multi-task Restoration | [![Stars](https://img.shields.io/github/stars/IGITUGraz/WeatherDiffusion.svg?style=social&label=Star)](https://github.com/IGITUGraz/WeatherDiffusion) |
+|IR-SDE| [Image Restoration with Mean-Reverting Stochastic Differential Equations](https://arxiv.org/abs/2301.11699) | Ziwei Luo | Supervised | ICML 2023 | Multi-task Restoration | [![Stars](https://img.shields.io/github/stars/Algolzw/image-restoration-sde.svg?style=social&label=Star)](https://github.com/Algolzw/image-restoration-sde) |
 |SUD^2| [SUD ˆ2: Supervision by denoising diffusion models for image reconstruction](https://arxiv.org/abs/2303.09642) | Matthew A. Chan | Supervised | Preprint'23 | Multi-task Restoration | |
-|ILVR|[ILVR: Conditioning method for denoising diffusion probabilistic models](https://openaccess.thecvf.com/content/ICCV2021/papers/Choi_ILVR_Conditioning_Method_for_Denoising_Diffusion_Probabilistic_Models_ICCV_2021_paper.pdf) | Jooyoung Choi | Zero-shot | ICCV2021 | Image Restoration | [Github](https://github.com/jychoi118/ilvr_adm) |
+|ILVR|[ILVR: Conditioning method for denoising diffusion probabilistic models](https://openaccess.thecvf.com/content/ICCV2021/papers/Choi_ILVR_Conditioning_Method_for_Denoising_Diffusion_Probabilistic_Models_ICCV_2021_paper.pdf) | Jooyoung Choi | Zero-shot | ICCV2021 | Image Restoration | [![Stars](https://img.shields.io/github/stars/jychoi118/ilvr_adm.svg?style=social&label=Star)](https://github.com/jychoi118/ilvr_adm) |
 |CCDF|[Come-closer-diffusefaster: Accelerating conditional diffusion models for inverse problems through stochastic contraction](https://openaccess.thecvf.com/content/CVPR2022/papers/Chung_Come-Closer-Diffuse-Faster_Accelerating_Conditional_Diffusion_Models_for_Inverse_Problems_Through_Stochastic_CVPR_2022_paper.pdf) | Hyungjin Chung | Zero-shot | CVPR2022 | Multi-task Restoration | |
-|SNIPS|[SNIPS: Solving noisy inverse problems stochastically](https://arxiv.org/abs/2105.14951) | Bahjat Kawa | Zero-shot | NeurIPS 2021 | Multi-task Restoration | [Github](https://github.com/bahjat-kawar/snips_torch)|
-|DDRM|[Denoising diffusion restoration models](https://arxiv.org/abs/2201.11793) | Bahjat Kawar | Zero-shot | ICLR2022 | Multi-task Restoration | [Github](https://github.com/bahjat-kawar/ddrm) |
-|DDNM|[Zero-shot image restoration using denoising diffusion null-space model](https://arxiv.org/abs/2212.00490) | Yinhuai Wang | Zero-shot | ICLR2023 | Multi-task Restoration | [Github](https://github.com/wyhuai/DDNM) |
-|DPS|[Diffusion Posterior Sampling for General Noisy Inverse Problems](https://arxiv.org/abs/2209.14687) | Hyungjin Chung | Zero-shot | ICLR 2023 | Multi-task Restoration | [Github](https://github.com/DPS2022/diffusion-posterior-sampling) |
+|SNIPS|[SNIPS: Solving noisy inverse problems stochastically](https://arxiv.org/abs/2105.14951) | Bahjat Kawa | Zero-shot | NeurIPS 2021 | Multi-task Restoration | [![Stars](https://img.shields.io/github/stars/bahjat-kawar/snips_torch.svg?style=social&label=Star)](https://github.com/bahjat-kawar/snips_torch)|
+|DDRM|[Denoising diffusion restoration models](https://arxiv.org/abs/2201.11793) | Bahjat Kawar | Zero-shot | ICLR2022 | Multi-task Restoration | [![Stars](https://img.shields.io/github/stars/bahjat-kawar/ddrm.svg?style=social&label=Star)](https://github.com/bahjat-kawar/ddrm) |
+|DDNM|[Zero-shot image restoration using denoising diffusion null-space model](https://arxiv.org/abs/2212.00490) | Yinhuai Wang | Zero-shot | ICLR2023 | Multi-task Restoration | [![Stars](https://img.shields.io/github/stars/wyhuai/DDNM.svg?style=social&label=Star)](https://github.com/wyhuai/DDNM) |
+|DPS|[Diffusion Posterior Sampling for General Noisy Inverse Problems](https://arxiv.org/abs/2209.14687) | Hyungjin Chung | Zero-shot | ICLR 2023 | Multi-task Restoration |  [![Stars](https://img.shields.io/github/stars/DPS2022/diffusion-posterior-sampling.svg?style=social&label=Star)](https://github.com/DPS2022/diffusion-posterior-sampling) |
 |DiracDiffusion|[DiracDiffusion: Denoising and incremental reconstruction with assured data-consistency](https://arxiv.org/abs/2303.14353) | Zalan Fabian | Zero-shot | NeurIPS 2022 | Multi-task Restoration | |
 |IIGDM|[Pseudoinverse-guided diffusion models for inverse problems](https://openreview.net/forum?id=9_gsMA8MRKQ) | Jiaming Song | Zero-shot | ICLR 2023 | Multi-task Restoration | |
-|GDP| [Generative diffusion prior for unified image restoration and enhancement](https://openaccess.thecvf.com/content/CVPR2023/papers/Fei_Generative_Diffusion_Prior_for_Unified_Image_Restoration_and_Enhancement_CVPR_2023_paper.pdf) | Ben Fei | Zero-shot | CVPR2023 | Multi-task Restoration | [Github](https://github.com/Fayeben/GenerativeDiffusionPrior) |
-|DiffPIR|[Denoising diffusion models for plug-and-play image restoration](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Zhu_Denoising_Diffusion_Models_for_Plug-and-Play_Image_Restoration_CVPRW_2023_paper.pdf) | Yuanzhi Zhu | Zero-shot | CVPR 2023 | Multi-task Restoration | [Github](https://github.com/yuanzhi-zhu/DiffPIR) |
+|GDP| [Generative diffusion prior for unified image restoration and enhancement](https://openaccess.thecvf.com/content/CVPR2023/papers/Fei_Generative_Diffusion_Prior_for_Unified_Image_Restoration_and_Enhancement_CVPR_2023_paper.pdf) | Ben Fei | Zero-shot | CVPR2023 | Multi-task Restoration | [![Stars](https://img.shields.io/github/stars/Fayeben/GenerativeDiffusionPrior.svg?style=social&label=Star)](https://github.com/Fayeben/GenerativeDiffusionPrior) |
+|DiffPIR|[Denoising diffusion models for plug-and-play image restoration](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Zhu_Denoising_Diffusion_Models_for_Plug-and-Play_Image_Restoration_CVPRW_2023_paper.pdf) | Yuanzhi Zhu | Zero-shot | CVPR 2023 | Multi-task Restoration | [![Stars](https://img.shields.io/github/stars/yuanzhi-zhu/DiffPIR.svg?style=social&label=Star)](https://github.com/yuanzhi-zhu/DiffPIR) |
 |RED-Diff|[A variational perspective on solving inverse problems with diffusion models](https://arxiv.org/abs/2305.04391) | Morteza Mardani | Zero-shot | PrePrint'22 |Multi-task Restoration| |
 |--|[Multiscale Structure Guided Diffusion for Image Deblurring](https://arxiv.org/abs/2212.01789) | Mengwei Ren | Supervised | Preprint'22 | Blind Restoration | |
 |DriftRec|[DriftRec: Adapting diffusion models to blind image restoration tasks](https://arxiv.org/abs/2211.06757) | Simon Welker | Supervised | Preprint'22 | Blind Restoration | |
 |DR2|[DR2: Diffusion-based robust degradation remover for blind face restoration](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DR2_Diffusion-Based_Robust_Degradation_Remover_for_Blind_Face_Restoration_CVPR_2023_paper.pdf) | Zhixin Wang | Zero-shot | CVPR2023 | Blind Face Restoration | |
 |DiffBFR|[DiffBFR: Bootstrapping diffusion model towards blind face restoration](https://arxiv.org/abs/2305.04517) | Xinmin Qiu | Supervised | Preprint'23 | Blind Face Restoration | |
-|DifFace|[DifFace: Blind face restoration with diffused error contraction](https://arxiv.org/abs/2212.06512) | Zongsheng Yu | Zero-shot | PrePrint'23 | Blind Restoration | [Github](https://github.com/zsyOAOA/DifFace) |
+|DifFace|[DifFace: Blind face restoration with diffused error contraction](https://arxiv.org/abs/2212.06512) | Zongsheng Yu | Zero-shot | PrePrint'23 | Blind Restoration | [![Stars](https://img.shields.io/github/stars/zsyOAOA/DifFace.svg?style=social&label=Star)](https://github.com/zsyOAOA/DifFace) |
 |GibbsDDRM|[GibbsDDRM: A partially collapsed gibbs sampler for solving blind inverse problems with denoising diffusion restoration](https://arxiv.org/abs/2301.12686) | Naoki Murata | Zero-shot | PrePrint'23 | Blind Restoration | |
 |ADIR|[ADIR: Adaptive diffusion for image reconstruction](https://arxiv.org/abs/2212.03221) | Shady Abu-Hussein | Zero-shot | PrePrint'22 | Blind Restoration | |
-|PSLD|[ASolving Linear Inverse Problems Provably via Posterior Sampling with Latent Diffusion Models](https://arxiv.org/abs/2307.00619) | Litu Rout | Zero-shot | PrePrint'23 | Image Restoration | [Github](https://github.com/LituRout/PSLD) |
+|PSLD|[ASolving Linear Inverse Problems Provably via Posterior Sampling with Latent Diffusion Models](https://arxiv.org/abs/2307.00619) | Litu Rout | Zero-shot | PrePrint'23 | Image Restoration | [![Stars](https://img.shields.io/github/stars/LituRout/PSLD.svg?style=social&label=Star)](https://github.com/LituRout/PSLD) |
 |IDM|[Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond](https://arxiv.org/abs/2307.08996) | Yang Zhao| Supervised | ICCV 2023 | Face Restoration ||
 |--|[Synthesizing realistic image restoration training pairs: A diffusion approach](https://arxiv.org/abs/2303.06994) | Tao Yang | Supervised | Preprint'22 | Blind Restoration | |
+|DiffBIR|[DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior](https://arxiv.org/abs/2308.15070) | Xinqi Lin | Supervised | Preprint' 2023 | Image Restoration |[![Stars](https://img.shields.io/github/stars/XPixelGroup/DiffBIR.svg?style=social&label=Star)](https://github.com/XPixelGroup/DiffBIR)|
+|RDDM|[Residual Denoising Diffusion Models](https://arxiv.org/abs/2308.13712) | Jiawei Liu | Supervised | Preprint' 2023 | Image Restoration |[![Stars](https://img.shields.io/github/stars/nachifur/RDDM.svg?style=social&label=Star)](https://github.com/nachifur/RDDM)|
+|C2F-DFT|[Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration](https://arxiv.org/abs/2308.08730) | Liyan Wang | Supervised | Preprint' 2023 | Image Restoration |[![Stars](https://img.shields.io/github/stars/wlydlut/c2f-dft.svg?style=social&label=Star)](https://github.com/wlydlut/c2f-dft)|
+|MCGdiff|[Monte Carlo guided Diffusion for Bayesian linear inverse problems](https://arxiv.org/abs/2308.07983) | Gabriel Cardoso | Supervised | Preprint' 2023 | Image Restoration ||
+|FastDiffusionEM|[Fast Diffusion EM: a diffusion model for blind inverse problems with application to deconvolution](https://arxiv.org/abs/2309.00287) | Charles Laroche | Supervised | Preprint' 2023 | Blind Image Restoration ||
 ### Image Denoising
 | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :--: | :--: |:--: | :--: |
 | [Diffusion model for generative image denoising](https://arxiv.org/abs/2302.02398) | Yutong Xie | Supervised | Preprint'23 | Image Denoising | |
 | [Score-Based Diffusion Models as Principled Priors for Inverse Imaging](https://arxiv.org/abs/2304.11751) | Berthy T. Feng | Zero-shot | PrePrint'23 | Image Denoising | |
 | [REAL-WORLD DENOISING VIA DIFFUSION MODEL](https://arxiv.org/abs/2305.04457) | Cheng Yang | Supervised | PrePrint'23 | Image Denoising| |
+### Image Dehazing
+|Model|Paper | First Author | Training Way | Venue | Topic | Project |
+| :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+|HazeDDPM|[High-quality Image Dehazing with Diffusion Model](https://arxiv.org/abs/2308.11949) | Hu Yu | Supervised | Preprint'23 | Image Dehazing | |
+|--|[Frequency Compensated Diffusion Model for Real-scene Dehazing](https://arxiv.org/abs/2308.10510) | Jing Wang | Supervised | Preprint'23 | Image Dehazing | |
 ### Medical Restoration (MRI,CT)
 |Model| Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
-|MCG| [Improving diffusion models for inverse problems using manifold constraints](https://arxiv.org/abs/2206.00941) | Hyungjin Chung | Zero-shot | NeurIPS 2022 | CT Reconstruction | [Github](https://github.com/HJ-harry/MCG_diffusion) |
+|MCG| [Improving diffusion models for inverse problems using manifold constraints](https://arxiv.org/abs/2206.00941) | Hyungjin Chung | Zero-shot | NeurIPS 2022 | CT Reconstruction | [![Stars](https://img.shields.io/github/stars/HJ-harry/MCG_diffusio.svg?style=social&label=Star)](https://github.com/HJ-harry/MCG_diffusion) |
 |--| [Solving inverse problems in medical imaging with score-based generative models](https://arxiv.org/abs/2111.08005) | Yang Song | Zero-shot | ICLR 2022 | CT Reconstruction | |
 |AdaDiff|[Adaptive diffusion priors for accelerated mri reconstruction](https://arxiv.org/abs/2207.05876) | Alper Güngör | Supervised | Preprint'23 | MRI Reconstruction | |
 |HFS-SDE|[High-Frequency Space Diffusion Models for Accelerated MRI](https://arxiv.org/abs/2208.05481) | Chentao Cao | Supervised | Preprint'22 | MRI Reconstruction | |
 ### Low-Light Enchancement
 |Model|Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
-|PyDiff|[Pyramid Diffusion Models For Low-light Image Enhancement](https://arxiv.org/abs/2305.10028) | Dewei Zhou | Supervised | Preprint'23 | Low-light Enhancemnent | [Github](https://github.com/limuloo/PyDIff) |
+|PyDiff|[Pyramid Diffusion Models For Low-light Image Enhancement](https://arxiv.org/abs/2305.10028) | Dewei Zhou | Supervised | Preprint'23 | Low-light Enhancemnent | [![Stars](https://img.shields.io/github/stars/limuloo/PyDIff.svg?style=social&label=Star)](https://github.com/limuloo/PyDIff) |
 |DiffLL|[Lowlight image enhancement with wavelet-based diffusion models](https://arxiv.org/abs/2306.00306) | Hai Jiang | Supervised | Preprint'23 | Low-light Enhancemnent | |
-|ExploreDiffusion|[ExposureDiffusion: Learning to Expose for Low-light Image Enhancement](https://arxiv.org/abs/2307.07710) | Yufei Wang | Supervised | Preprint'23 | Low-light Enhancemnent | [Github](https://github.com/wyf0912/ExposureDiffusion) |
+|ExploreDiffusion|[ExposureDiffusion: Learning to Expose for Low-light Image Enhancement](https://arxiv.org/abs/2307.07710) | Yufei Wang | Supervised | Preprint'23 | Low-light Enhancemnent |  [![Stars](https://img.shields.io/github/stars/wyf0912/ExposureDiffusion.svg?style=social&label=Star)](https://github.com/wyf0912/ExposureDiffusion) |
 |Diff-Retinex|[Rethinking Low-light Image Enhancement with A Generative Diffusion Model](https://arxiv.org/abs/2308.13164) | Xunpeng Yi | Supervised | Preprint'23 | Low-light Enhancemnent | |
+|CLE Diffusion|[CLE Diffusion: Controllable Light Enhancement Diffusion Model](https://arxiv.org/abs/2308.06725) | Yuyang Yin | Supervised | Preprint'23 | Low-light Enhancemnent |[![Stars](https://img.shields.io/github/stars/YuyangYin/CLEDiffusion.svg?style=social&label=Star)](https://github.com/YuyangYin/CLEDiffusion) |
+|DiffLLE|[DiffLLE: Diffusion-guided Domain Calibration for Unsupervised Low-light Image Enhancement](https://arxiv.org/abs/2308.09279) | Shuzhou Yang | Supervised | Preprint'23 | Low-light Enhancemnent | |
+|LLDiffusion|[LLDiffusion: Learning Degradation Representations in Diffusion Models for Low-Light Image Enhancement](https://arxiv.org/abs/2307.14659) | Tao Wang | Supervised | Preprint'23 | Low-light Enhancemnent | |
+
+
+
 ### Other tasks
 |Model|Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
-|--| [Jpeg artifact correction using denoising diffusion restoration models](https://arxiv.org/abs/2209.11888) | Bahjat Kawar| Zero-shot | NeurIPS 2022 | JPEG Artifacts Removal | [Github](https://github.com/bahjat-kawar/ddrm-jpeg) |
-|--|[Improved Diffusion-based Image Colorization via Piggybacked Models](https://arxiv.org/abs/2304.11105) | Hanyuan Liu | Zero-shot | PrePrint'23 | Image Colorization | [Github](https://github.com/hyliu/piggyback-color) |
+|--| [Jpeg artifact correction using denoising diffusion restoration models](https://arxiv.org/abs/2209.11888) | Bahjat Kawar| Zero-shot | NeurIPS 2022 | JPEG Artifacts Removal | [![Stars](https://img.shields.io/github/stars/bahjat-kawar/ddrm-jpeg.svg?style=social&label=Star)](https://github.com/bahjat-kawar/ddrm-jpeg) |
+|--|[Improved Diffusion-based Image Colorization via Piggybacked Models](https://arxiv.org/abs/2304.11105) | Hanyuan Liu | Zero-shot | PrePrint'23 | Image Colorization | [![Stars](https://img.shields.io/github/stars/hyliu/piggyback-color.svg?style=social&label=Star)](https://github.com/hyliu/piggyback-color) |
 |RainDiffusion|[RainDiffusion: When Unsupervised Learning Meets Diffusion Models for Real-world Image Deraining](https://arxiv.org/abs/2301.09430) | Mingqiang Wei | Supervised | Preprint'23 | Image Deraining| |
 |DiffGAR|[DiffGAR: Model-agnostic restoration from generative artifacts using image-to-image diffusion models](https://arxiv.org/abs/2210.08573) | Yueqin Yin | Supervised | Preprint'22 | Generative Artifacts Removal | |
+|HSR-Diff|[HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models](https://arxiv.org/abs/2306.12085) | Chanyue Wu | Supervised | Preprint'23 | hyperspectral images super-resolution | |
+|DRUS|[Ultrasound Image Reconstruction with Denoising Diffusion Restoration Models](https://arxiv.org/abs/2307.15990) | Yuxin Zhang | Supervised | Preprint'23 | Ultrasound Image Reconstruction | [![Stars](https://img.shields.io/github/stars/yuxin-zhang-jasmine/drus-v1.svg?style=social&label=Star)](https://github.com/yuxin-zhang-jasmine/drus-v1) |
 ### Benchmark Datasets
 |Dataset|Task|Usage|Year|
 |:----:|:----:|:----:|:----:|
@@ -190,6 +211,9 @@ University of Science and Technology of China (USTC), National University of Sin
 |DIRAC| [A Residual Diffusion Model for High Perceptual Quality Codec Augmentation](https://arxiv.org/abs/2301.05489) | Noor Fathima Ghouse | Preprint'23 | Lossy Image Compression | |
 |HFD| [High-Fidelity Image Compression with Score-based Generative Models](https://arxiv.org/abs/2305.18231) | Emiel Hoogeboom | Preprint'23 | Lossy Image Compression | |
 |PIC| [Text + Sketch: Image Compression at Ultra Low Rates](https://arxiv.org/abs/2307.01944) | Eric Lei | Preprint'23 | Lossy Image Compression | |
+
+
+
 
 ## Cite US
 
