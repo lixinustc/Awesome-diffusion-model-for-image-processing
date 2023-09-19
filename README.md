@@ -13,9 +13,6 @@ University of Science and Technology of China (USTC), National University of Sin
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2308.09388v1.pdf)
 
-## :bookmark: News!!!
-- [x] 2023-09-19: **Updated new related works before 15/09/2023 in this GitHub.**
-
 
 **📌 About new works.** If you want to incorporate your studies (e.g., the link of paper or project) on diffusion model-based image processing in this repository. Welcome to raise an issue or email us. We will incorporate it into this repository and our survey report as soon as possible. 
 
@@ -48,7 +45,7 @@ University of Science and Technology of China (USTC), National University of Sin
 
 ### Image Super-Resolution
 |Models| Paper | First Author | Training Way | Venue | Topic | Project |
-| :--- | :---: | :---: | :--: | :--: |:--: | :--: |
+| :-- | :---: | :--: | :--: | :--: |:--: | :--: |
 |SR3| [Image super-resolution via iterative refinement](https://ieeexplore.ieee.org/document/9887996x) | Chitwan Saharia | Supervised |TPAMI2022 | Super-resolution | [![Stars](https://img.shields.io/github/stars/Janspiry/Image-Super-Resolution-via-Iterative-Refinement.svg?style=social&label=Star)](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) |
 |SRDiff|[SRDiff: Single Image Super-Resolution with Diffusion Probabilistic Models](https://arxiv.org/abs/2104.14951) | Haoying Li | Supervised | Neurocomputing 2022 | Super-resolution | [![Stars](https://img.shields.io/github/stars/LeiaLi/SRDiff.svg?style=social&label=Star)](https://github.com/LeiaLi/SRDiff) |
 |CDPMSR| [CDPMSR: Conditional Diffusion Probabilistic Models for Single Image Super-Resolution](https://arxiv.org/abs/2302.12831c) | Axi Niu | Supervised | Preprint'23 | Super-resolution | |
@@ -137,6 +134,8 @@ University of Science and Technology of China (USTC), National University of Sin
 |--| [Solving inverse problems in medical imaging with score-based generative models](https://arxiv.org/abs/2111.08005) | Yang Song | Zero-shot | ICLR 2022 | CT Reconstruction | |
 |AdaDiff|[Adaptive diffusion priors for accelerated mri reconstruction](https://arxiv.org/abs/2207.05876) | Alper Güngör | Supervised | Preprint'23 | MRI Reconstruction | |
 |HFS-SDE|[High-Frequency Space Diffusion Models for Accelerated MRI](https://arxiv.org/abs/2208.05481) | Chentao Cao | Supervised | Preprint'22 | MRI Reconstruction | |
+|SWORD|[Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-View CT Reconstruction](https://arxiv.org/abs/2308.15942) | Kai Xu | Supervised | Preprint'23 | MRI Reconstruction | [![Stars](https://img.shields.io/github/stars/yqx7150/sword.svg?style=social&label=Star)](https://github.com/yqx7150/sword) |
+|FDB|[Learning Fourier-Constrained Diffusion Bridges for MRI Reconstruction](https://arxiv.org/pdf/2308.01096.pdf) | Muhammad U. Mirza | Supervised | Preprint'23 | MRI Reconstruction | [![Stars](https://img.shields.io/github/stars/icon-lab/FDB.svg?style=social&label=Star)](https://github.com/icon-lab/FDB) |
 ### Low-Light Enchancement
 |Model|Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
@@ -147,9 +146,6 @@ University of Science and Technology of China (USTC), National University of Sin
 |CLE Diffusion|[CLE Diffusion: Controllable Light Enhancement Diffusion Model](https://arxiv.org/abs/2308.06725) | Yuyang Yin | Supervised | Preprint'23 | Low-light Enhancemnent |[![Stars](https://img.shields.io/github/stars/YuyangYin/CLEDiffusion.svg?style=social&label=Star)](https://github.com/YuyangYin/CLEDiffusion) |
 |DiffLLE|[DiffLLE: Diffusion-guided Domain Calibration for Unsupervised Low-light Image Enhancement](https://arxiv.org/abs/2308.09279) | Shuzhou Yang | Supervised | Preprint'23 | Low-light Enhancemnent | |
 |LLDiffusion|[LLDiffusion: Learning Degradation Representations in Diffusion Models for Low-Light Image Enhancement](https://arxiv.org/abs/2307.14659) | Tao Wang | Supervised | Preprint'23 | Low-light Enhancemnent | |
-
-
-
 ### Other tasks
 |Model|Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
