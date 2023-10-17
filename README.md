@@ -11,7 +11,7 @@ University of Science and Technology of China (USTC), National University of Sin
 
 **Brief intro**: The survey for diffusion model-based IR has been released.
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2308.09388v1.pdf)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2308.09388v1.pdf)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lixinustc/Awesome-diffusion-model-for-image-processing)
 
 ## :bookmark: News!!!
 - [x] 2023-09-19: **Updated new related works before 15/09/2023 in this GitHub.**
