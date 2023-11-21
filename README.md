@@ -65,7 +65,12 @@ University of Science and Technology of China (USTC), National University of Sin
 |YODA| [YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution](https://arxiv.org/pdf/2308.07977v1.pdf) | Brian B. Moser | Supervised | Preprint'23 | Super-resolution | |
 |CDPMSR| [CDPMSR: Conditional Diffusion Probabilistic Models for Single Image Super-Resolution](https://arxiv.org/abs/2302.12831c) | Axi Niu | Supervised | Preprint'23 | Super-resolution | |
 |ResDiff| [ResDiff: Combining cnn and diffusion model for image superresolution](https://arxiv.org/abs/2303.08714) | Shuyao Shang | Supervised | Preprint'23 | Super-resolution | |
-|--| [Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution](https://arxiv.org/abs/2305.15357) | Yiyang Ma | Supervised | Preprint'23 | Super-resolution | |
+|--| [IMAGE SUPER-RESOLUTION VIA LATENT DIFFUSION: A SAMPLING-SPACE MIXTURE OF EXPERTS AND FREQUENCY-AUGMENTED DECODER APPROACH](https://arxiv.org/pdf/2310.12004v2.pdf) | Feng Luo | Supervised | Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/tencent-ailab/Frequency_Aug_VAE_MoESR.svg?style=social&label=Star)](https://github.com/tencent-ailab/Frequency_Aug_VAE_MoESR) |
+|--| [Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution](https://arxiv.org/abs/2305.15357) | Yiyang Ma | Supervised | Preprint'23 | Super-resolution |  |
+
+
+
+
 ### Image Restoration
 | Model | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
@@ -98,7 +103,9 @@ University of Science and Technology of China (USTC), National University of Sin
 |RDDM|[Residual Denoising Diffusion Models](https://arxiv.org/abs/2308.13712) | Jiawei Liu | Supervised | Preprint' 2023 | Image Restoration |[![Stars](https://img.shields.io/github/stars/nachifur/RDDM.svg?style=social&label=Star)](https://github.com/nachifur/RDDM)|
 |C2F-DFT|[Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration](https://arxiv.org/abs/2308.08730) | Liyan Wang | Supervised | Preprint' 2023 | Image Restoration |[![Stars](https://img.shields.io/github/stars/wlydlut/c2f-dft.svg?style=social&label=Star)](https://github.com/wlydlut/c2f-dft)|
 |MCGdiff|[Monte Carlo guided Diffusion for Bayesian linear inverse problems](https://arxiv.org/abs/2308.07983) | Gabriel Cardoso | Zero-shot | Preprint' 2023 | Image Restoration ||
+|AutoDIR|[AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion](https://arxiv.org/abs/2310.10123) | Yitong Jiang | Supervised | Preprint' 2023 | Image Restoration ||
 |FastDiffusionEM|[Fast Diffusion EM: a diffusion model for blind inverse problems with application to deconvolution](https://arxiv.org/abs/2309.00287) | Charles Laroche | Supervised | Preprint' 2023 | Blind Image Restoration ||
+|P2L|[PROMPT-TUNING LATENT DIFFUSION MODELS FOR INVERSE PROBLEMS](https://arxiv.org/pdf/2310.01110v1.pdf) | Hyungjin Chung | Supervised | Preprint' 2023 | Image Restoration ||
 |--|[Multiscale Structure Guided Diffusion for Image Deblurring](https://arxiv.org/abs/2212.01789) | Mengwei Ren | Supervised | Preprint'22 | Blind Restoration | |
 |--|[Synthesizing realistic image restoration training pairs: A diffusion approach](https://arxiv.org/abs/2303.06994) | Tao Yang | Supervised | Preprint'22 | Blind Restoration | |
 ### Image Inpainting
@@ -157,6 +164,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |DRUS|[Ultrasound Image Reconstruction with Denoising Diffusion Restoration Models](https://arxiv.org/abs/2307.15990) | Yuxin Zhang | Zero-shot | Preprint'23 | Ultrasound Image Reconstruction | [![Stars](https://img.shields.io/github/stars/yuxin-zhang-jasmine/drus-v1.svg?style=social&label=Star)](https://github.com/yuxin-zhang-jasmine/drus-v1) |
 |--| [Jpeg artifact correction using denoising diffusion restoration models](https://arxiv.org/abs/2209.11888) | Bahjat Kawar| Zero-shot | NeurIPS 2022 | JPEG Artifacts Removal | [![Stars](https://img.shields.io/github/stars/bahjat-kawar/ddrm-jpeg.svg?style=social&label=Star)](https://github.com/bahjat-kawar/ddrm-jpeg) |
 |--|[Improved Diffusion-based Image Colorization via Piggybacked Models](https://arxiv.org/abs/2304.11105) | Hanyuan Liu | Zero-shot | PrePrint'23 | Image Colorization | [![Stars](https://img.shields.io/github/stars/hyliu/piggyback-color.svg?style=social&label=Star)](https://github.com/hyliu/piggyback-color) |
+
 ### Benchmark Datasets
 |Dataset|Task|Usage|Year|
 |:----:|:----:|:----:|:----:|
@@ -212,6 +220,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |DIRAC| [A Residual Diffusion Model for High Perceptual Quality Codec Augmentation](https://arxiv.org/abs/2301.05489) | Noor Fathima Ghouse | Preprint'23 | Lossy Image Compression | |
 |HFD| [High-Fidelity Image Compression with Score-based Generative Models](https://arxiv.org/abs/2305.18231) | Emiel Hoogeboom | Preprint'23 | Lossy Image Compression | |
 |PIC| [Text + Sketch: Image Compression at Ultra Low Rates](https://arxiv.org/abs/2307.01944) | Eric Lei | Preprint'23 | Lossy Image Compression | |
+|--|[TOWARDS IMAGE COMPRESSION WITH PERFECT REALISM AT ULTRA-LOW BITRATES](https://arxiv.org/abs/2310.10325) | Marlène Careil | PrePrint'23 | Lossy Image Compression |
 
 
 
