@@ -59,7 +59,9 @@ University of Science and Technology of China (USTC), National University of Sin
 |SR3+| [Denoising diffusion probabilistic models for robust image super-resolution in the wild](https://arxiv.org/abs/2302.07864) | Hshmat Sahak | Supervised | Preprint'23 | (Real-World) Super-resolution | |
 |ResShift| [ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting](https://arxiv.org/pdf/2307.12348.pdf) | Zongsheng Yue | Supervised | Preprint'23 | Real-World Super-resolution | [![Stars](https://img.shields.io/github/stars/zsyOAOA/ResShift.svg?style=social&label=Star)](https://github.com/zsyOAOA/ResShift)|
 |TextDiff| [TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution](https://arxiv.org/abs/2308.06743) | Baolin Liu | Supervised | Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/Lenubolim/TextDiff.svg?style=social&label=Star)](https://github.com/Lenubolim/TextDiff) |
-|PASD| [Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization](https://arxiv.org/abs/2308.14469) | Tao Yang | Supervised | Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/yangxy/pasd.svg?style=social&label=Star)](https://github.com/yangxy/pasd) |
+|PASD| [Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization](https://arxiv.org/abs/2308.14469) | Tao Yang | Supervised | 
+Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/yangxy/pasd.svg?style=social&label=Star)](https://github.com/yangxy/pasd) |
+|EDiffSR| [EDiffSR: An Efficient Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution](https://arxiv.org/abs/2310.19288) | Yi Xiao | Supervised | Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/XY-boy/EDiffSR.svg?style=social&label=Star)](https://github.com/XY-boy/EDiffSR) |
 |PartDiff| [PartDiff: Image Super-resolution with Partial Diffusion Models](https://arxiv.org/abs/2307.11926) | Kai Zhao | Supervised | Preprint'23 | Super-resolution | |
 |Diwa| [Waving Goodbye to Low-Res: A Diffusion-Wavelet Approach for Image Super-Resolution](https://arxiv.org/abs/2304.01994) | Brian Moser | Supervised | Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/Brian-Moser/diwa.svg?style=social&label=Star)](https://github.com/Brian-Moser/diwa) |
 |YODA| [YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution](https://arxiv.org/pdf/2308.07977v1.pdf) | Brian B. Moser | Supervised | Preprint'23 | Super-resolution | |
@@ -222,8 +224,10 @@ University of Science and Technology of China (USTC), National University of Sin
 |PIC| [Text + Sketch: Image Compression at Ultra Low Rates](https://arxiv.org/abs/2307.01944) | Eric Lei | Preprint'23 | Lossy Image Compression | |
 |--|[TOWARDS IMAGE COMPRESSION WITH PERFECT REALISM AT ULTRA-LOW BITRATES](https://arxiv.org/abs/2310.10325) | Marlène Careil | PrePrint'23 | Lossy Image Compression |
 
-
-
+# Diffusion model-based Image quality assessment
+|Model| Paper | First Author | Venue | Topic | Project |
+| :--- | :---: | :---: | :--: | :--: |:--: |
+|DifFIQA| [DifFIQA: Face Image Quality Assessment Using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2305.05768) | Žiga Babnik | Preprint'23 | Image quality assessment | |
 
 ## Cite US
 
