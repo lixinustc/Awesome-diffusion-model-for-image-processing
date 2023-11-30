@@ -14,6 +14,7 @@ University of Science and Technology of China (USTC), National University of Sin
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2308.09388v1.pdf)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lixinustc/Awesome-diffusion-model-for-image-processing)
 
 ## :bookmark: News!!!
+- [x] 2023-09-19: **Updated new related works before 15/09/2023 in this GitHub.**
 - [x] 2023-11-24: **Updated new related works before 10/11/2023 in this GitHub.**
 
 **📌 About new works.** If you want to incorporate your studies (e.g., the link of paper or project) on diffusion model-based image processing in this repository. Welcome to raise an issue or email us. We will incorporate it into this repository and our survey report as soon as possible. 
@@ -22,7 +23,7 @@ University of Science and Technology of China (USTC), National University of Sin
 ## 🌟  Features
 - [x] **Survey for diffusion model-based Image Restoration** ([Arxiv version](https://arxiv.org/pdf/2308.09388v1.pdf) is released) 
 - [x] **Summary for diffusion model-based Image/Video Compression**
-- [ ] Summary for diffusion model-based Quality Assessment
+- [x] **Summary for diffusion model-based Quality Assessment**
 
 
 
