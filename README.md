@@ -16,6 +16,7 @@ University of Science and Technology of China (USTC), National University of Sin
 ## :bookmark: News!!!
 - [x] 2023-09-19: **Updated new related works before 15/09/2023 in this GitHub.**
 - [x] 2023-11-24: **Updated new related works before 10/11/2023 in this GitHub.**
+- [x] 2023-12-25: **Updated new related works before 25/12/2023 in this GitHub.**
 
 **📌 About new works.** If you want to incorporate your studies (e.g., the link of paper or project) on diffusion model-based image processing in this repository. Welcome to raise an issue or email us. We will incorporate it into this repository and our survey report as soon as possible. 
 
@@ -68,6 +69,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |YODA| [YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution](https://arxiv.org/pdf/2308.07977v1.pdf) | Brian B. Moser | Supervised | Preprint'23 | Super-resolution | |
 |CDPMSR| [CDPMSR: Conditional Diffusion Probabilistic Models for Single Image Super-Resolution](https://arxiv.org/abs/2302.12831c) | Axi Niu | Supervised | Preprint'23 | Super-resolution | |
 |ResDiff| [ResDiff: Combining cnn and diffusion model for image superresolution](https://arxiv.org/abs/2303.08714) | Shuyao Shang | Supervised | Preprint'23 | Super-resolution | |
+|DiffTSR| [Diffusion-based Blind Text Image Super-Resolution](https://arxiv.org/abs/2312.08886) | Yuzhe Zhang | Supervised | Preprint'23 | Super-resolution |  |
 |--| [IMAGE SUPER-RESOLUTION VIA LATENT DIFFUSION: A SAMPLING-SPACE MIXTURE OF EXPERTS AND FREQUENCY-AUGMENTED DECODER APPROACH](https://arxiv.org/pdf/2310.12004v2.pdf) | Feng Luo | Supervised | Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/tencent-ailab/Frequency_Aug_VAE_MoESR.svg?style=social&label=Star)](https://github.com/tencent-ailab/Frequency_Aug_VAE_MoESR) |
 |--| [Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution](https://arxiv.org/abs/2305.15357) | Yiyang Ma | Supervised | Preprint'23 | Super-resolution |  |
 
@@ -108,6 +110,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |MPerceiver|[Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration](https://arxiv.org/abs/2312.02918) | Yuang Ai | Supervised | Preprint'23 | All-in-one Restoration | |
 |MCGdiff|[Monte Carlo guided Diffusion for Bayesian linear inverse problems](https://arxiv.org/abs/2308.07983) | Gabriel Cardoso | Zero-shot | Preprint' 2023 | Image Restoration ||
 |AutoDIR|[AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion](https://arxiv.org/abs/2310.10123) | Yitong Jiang | Supervised | Preprint' 2023 | Image Restoration ||
+|ZeroAIR|[Exploiting Diffusion Priors for All-in-One Image Restoration](https://arxiv.org/abs/2312.02197) | Yuanbiao Gou | Supervised | Preprint' 2023 | Image Restoration ||
 |FastDiffusionEM|[Fast Diffusion EM: a diffusion model for blind inverse problems with application to deconvolution](https://arxiv.org/abs/2309.00287) | Charles Laroche | Supervised | Preprint' 2023 | Blind Image Restoration ||
 |P2L|[PROMPT-TUNING LATENT DIFFUSION MODELS FOR INVERSE PROBLEMS](https://arxiv.org/pdf/2310.01110v1.pdf) | Hyungjin Chung | Supervised | Preprint' 2023 | Image Restoration ||
 |--|[Multiscale Structure Guided Diffusion for Image Deblurring](https://arxiv.org/abs/2212.01789) | Mengwei Ren | Supervised | Preprint'22 | Blind Restoration | |
@@ -117,6 +120,7 @@ University of Science and Technology of China (USTC), National University of Sin
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 |RePaint| [RePaint: Inpainting using denoising diffusion probabilistic models](https://openaccess.thecvf.com/content/CVPR2022/papers/Lugmayr_RePaint_Inpainting_Using_Denoising_Diffusion_Probabilistic_Models_CVPR_2022_paper.pdf) | Andreas Lugmayr  | Zero-shot | CVPR2022 | Image Inpainting | [![Stars](https://img.shields.io/github/stars/andreas128/RePaint.svg?style=social&label=Star)](https://github.com/andreas128/RePaint) | 
 |CoPaint| [Towards coherent image inpainting using denoising diffusion implicit models](https://arxiv.org/abs/2304.03322) | Guanhua Zhang | Zero-shot | PrePrint'23 | Image Inpainting | [![Stars](https://img.shields.io/github/stars/UCSB-NLP-Chang/CoPaint.svg?style=social&label=Star)](https://github.com/UCSB-NLP-Chang/CoPaint) |
+|PVA| [Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention](https://arxiv.org/abs/2312.03556) | Jianjin Xu | Zero-shot | PrePrint'23 | Image Inpainting | |
 ### Image Shadow Removal 
 | Model| Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
