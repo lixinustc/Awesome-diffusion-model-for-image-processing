@@ -250,3 +250,9 @@ If this work is helpful to you, we expect you can cite this work and star this r
   year={2023}
 }
 ```
+
+ <p align="center">
+  <a href="https://star-history.com/#lixinustc/Awesome-diffusion-model-for-image-processing&Date">
+    <img src="https://api.star-history.com/svg?repos=lixinustc/Awesome-diffusion-model-for-image-processing&type=Date" alt="Star History Chart">
+  </a>
+</p>
