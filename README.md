@@ -63,6 +63,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |ResShift| [ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting](https://arxiv.org/pdf/2307.12348.pdf) | Zongsheng Yue | Supervised | Preprint'23 | Real-World Super-resolution | [![Stars](https://img.shields.io/github/stars/zsyOAOA/ResShift.svg?style=social&label=Star)](https://github.com/zsyOAOA/ResShift)|
 |TextDiff| [TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution](https://arxiv.org/abs/2308.06743) | Baolin Liu | Supervised | Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/Lenubolim/TextDiff.svg?style=social&label=Star)](https://github.com/Lenubolim/TextDiff) |
 |PASD| [Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization](https://arxiv.org/abs/2308.14469) | Tao Yang | Supervised Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/yangxy/pasd.svg?style=social&label=Star)](https://github.com/yangxy/pasd) |
+|CCSR| [Improving the Stability of Diffusion Models for Content Consistent Super-Resolution](https://arxiv.org/abs/2401.00877) | Lingchen Sun | Supervised | Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/csslc/CCSR.svg?style=social&label=Star)](https://github.com/csslc/CCSR) |
 |EDiffSR| [EDiffSR: An Efficient Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution](https://arxiv.org/abs/2310.19288) | Yi Xiao | Supervised | Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/XY-boy/EDiffSR.svg?style=social&label=Star)](https://github.com/XY-boy/EDiffSR) |
 |PartDiff| [PartDiff: Image Super-resolution with Partial Diffusion Models](https://arxiv.org/abs/2307.11926) | Kai Zhao | Supervised | Preprint'23 | Super-resolution | |
 |Diwa| [Waving Goodbye to Low-Res: A Diffusion-Wavelet Approach for Image Super-Resolution](https://arxiv.org/abs/2304.01994) | Brian Moser | Supervised | Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/Brian-Moser/diwa.svg?style=social&label=Star)](https://github.com/Brian-Moser/diwa) |
@@ -72,8 +73,6 @@ University of Science and Technology of China (USTC), National University of Sin
 |DiffTSR| [Diffusion-based Blind Text Image Super-Resolution](https://arxiv.org/abs/2312.08886) | Yuzhe Zhang | Supervised | Preprint'23 | Super-resolution |  |
 |--| [IMAGE SUPER-RESOLUTION VIA LATENT DIFFUSION: A SAMPLING-SPACE MIXTURE OF EXPERTS AND FREQUENCY-AUGMENTED DECODER APPROACH](https://arxiv.org/pdf/2310.12004v2.pdf) | Feng Luo | Supervised | Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/tencent-ailab/Frequency_Aug_VAE_MoESR.svg?style=social&label=Star)](https://github.com/tencent-ailab/Frequency_Aug_VAE_MoESR) |
 |--| [Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution](https://arxiv.org/abs/2305.15357) | Yiyang Ma | Supervised | Preprint'23 | Super-resolution |  |
-
-
 
 
 ### Image Restoration
@@ -111,8 +110,9 @@ University of Science and Technology of China (USTC), National University of Sin
 |MCGdiff|[Monte Carlo guided Diffusion for Bayesian linear inverse problems](https://arxiv.org/abs/2308.07983) | Gabriel Cardoso | Zero-shot | Preprint' 2023 | Image Restoration ||
 |AutoDIR|[AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion](https://arxiv.org/abs/2310.10123) | Yitong Jiang | Supervised | Preprint' 2023 | Image Restoration ||
 |ZeroAIR|[Exploiting Diffusion Priors for All-in-One Image Restoration](https://arxiv.org/abs/2312.02197) | Yuanbiao Gou | Supervised | Preprint' 2023 | Image Restoration ||
-|FastDiffusionEM|[Fast Diffusion EM: a diffusion model for blind inverse problems with application to deconvolution](https://arxiv.org/abs/2309.00287) | Charles Laroche | Supervised | Preprint' 2023 | Blind Image Restoration ||
+|FastDiffusionEM|[Fast Diffusion EM: a diffusion model for blind inverse problems with application to deconvolution](https://arxiv.org/abs/2309.00287) | Charles Laroche | Supervised | WACV 2024 | Blind Image Restoration ||
 |P2L|[PROMPT-TUNING LATENT DIFFUSION MODELS FOR INVERSE PROBLEMS](https://arxiv.org/pdf/2310.01110v1.pdf) | Hyungjin Chung | Supervised | Preprint' 2023 | Image Restoration ||
+|DDPG|[Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance](https://arxiv.org/abs/2312.16519) | Tomer Garber | Zero-Shot| Preprint' 2023 | Image Restoration ||
 |--|[Multiscale Structure Guided Diffusion for Image Deblurring](https://arxiv.org/abs/2212.01789) | Mengwei Ren | Supervised | Preprint'22 | Blind Restoration | |
 |--|[Synthesizing realistic image restoration training pairs: A diffusion approach](https://arxiv.org/abs/2303.06994) | Tao Yang | Supervised | Preprint'22 | Blind Restoration | |
 ### Image Inpainting
@@ -127,6 +127,7 @@ University of Science and Technology of China (USTC), National University of Sin
 | -- | [Boundary-Aware Divide and Conquer: A Diffusion-based Solution for Unsupervised Shadow Removal](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Boundary-Aware_Divide_and_Conquer_A_Diffusion-Based_Solution_for_Unsupervised_Shadow_ICCV_2023_paper.pdf) | Lanqing Guo | Unsupervised | ICCV 23 | Image Shadow Removal | | 
 |ShadowDiffusion| [Shadowdiffusion: When degradation prior meets diffusion model for shadow removal](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_ShadowDiffusion_When_Degradation_Prior_Meets_Diffusion_Model_for_Shadow_Removal_CVPR_2023_paper.pdf) | Lanqing Guo | Supervised | CVPR2023 | Image Shadow Removal |[![Stars](https://img.shields.io/github/stars/GuoLanqing/ShadowDiffusion.svg?style=social&label=Star)](https://github.com/GuoLanqing/ShadowDiffusion) |
 |DeS3| [DeS3: Attention-driven Self and Soft Shadow Removal using ViT Similarity and Color Convergence](https://arxiv.org/abs/2211.08089) | Yeying Jin | Supervised | Preprint'23 | Image Shadow Removal | |
+|LFG-Diffusion| [Latent Feature-Guided Diffusion Models for Shadow Removal](https://openaccess.thecvf.com/content/WACV2024/html/Mei_Latent_Feature-Guided_Diffusion_Models_for_Shadow_Removal_WACV_2024_paper.html) | Kangfu Mei | Supervised | WACV 2024 | Image Shadow Removal | |
 |Deshadow-Anything| [Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal](https://arxiv.org/pdf/2309.11715v1.pdf) | Xiao Feng Zhang | Supervised | Preprint'23 | Image Shadow Removal | |
 ### Image Denoising
 | Paper | First Author | Training Way | Venue | Topic | Project |
