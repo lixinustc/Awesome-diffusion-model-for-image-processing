@@ -226,13 +226,14 @@ University of Science and Technology of China (USTC), National University of Sin
 |Model| Paper | First Author | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: |
 |DiffC| [Lossy Compression with Gaussian Diffusion](https://arxiv.org/abs/2206.08889) | Lucas Theisl | Preprint'22 | Lossy Image Compression | |
-|CDC| [Lossy Image Compression with Conditional Diffusion Models](https://arxiv.org/abs/2209.06950) | Ruihan Yang | ICLR 2023 | Lossy Image Compression | |
+|CDC| [Lossy Image Compression with Conditional Diffusion Models](https://arxiv.org/abs/2209.06950) | Ruihan Yang | NeurIPS 2024 | Lossy Image Compression | |
 |--| [Extreme Generative Image Compression by Learning Text Embedding from Diffusion Models](https://arxiv.org/abs/2211.07793) | Zhihong Pan | Preprint'22 | Image Compression | |
 |DIRAC| [A Residual Diffusion Model for High Perceptual Quality Codec Augmentation](https://arxiv.org/abs/2301.05489) | Noor Fathima Ghouse | Preprint'23 | Lossy Image Compression | |
 |HFD| [High-Fidelity Image Compression with Score-based Generative Models](https://arxiv.org/abs/2305.18231) | Emiel Hoogeboom | Preprint'23 | Lossy Image Compression | |
 | PerCo | [TOWARDS IMAGE COMPRESSION WITH PERFECT REALISM AT ULTRA-LOW BITRATES](https://arxiv.org/abs/2310.10325) | Marl` ene Careil | Preprint'23 | Lossy Image Compression | |
-|PIC| [Text + Sketch: Image Compression at Ultra Low Rates](https://arxiv.org/abs/2307.01944) | Eric Lei | Preprint'23 | Lossy Image Compression | |
-|--|[TOWARDS IMAGE COMPRESSION WITH PERFECT REALISM AT ULTRA-LOW BITRATES](https://arxiv.org/abs/2310.10325) | Marlène Careil | PrePrint'23 | Lossy Image Compression |
+|PIC| [Text + Sketch: Image Compression at Ultra Low Rates](https://arxiv.org/abs/2307.01944) | Eric Lei | ICML 2023 workshop  | Lossy Image Compression | |
+|| [Idempotence and Perceptual Image Compression](https://arxiv.org/abs/2401.08920) | Tongda Xu | Preprint'24 | Lossy Image Compression | [![Stars](https://img.shields.io/github/tongdaxu/idempotence-and-perceptual-image-compression.svg?style=social&label=Star)](https://github.com/tongdaxu/idempotence-and-perceptual-image-compression) |
+|--|[TOWARDS IMAGE COMPRESSION WITH PERFECT REALISM AT ULTRA-LOW BITRATES](https://arxiv.org/abs/2310.10325) | Marlène Careil | ICLR 2024 | Lossy Image Compression |
 
 # Diffusion model-based Image quality assessment
 |Model| Paper | First Author | Venue | Topic | Project |
