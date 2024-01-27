@@ -232,7 +232,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |HFD| [High-Fidelity Image Compression with Score-based Generative Models](https://arxiv.org/abs/2305.18231) | Emiel Hoogeboom | Preprint'23 | Lossy Image Compression | |
 | PerCo | [TOWARDS IMAGE COMPRESSION WITH PERFECT REALISM AT ULTRA-LOW BITRATES](https://arxiv.org/abs/2310.10325) | Marl` ene Careil | Preprint'23 | Lossy Image Compression | |
 |PIC| [Text + Sketch: Image Compression at Ultra Low Rates](https://arxiv.org/abs/2307.01944) | Eric Lei | ICML 2023 workshop  | Lossy Image Compression | |
-|| [Idempotence and Perceptual Image Compression](https://arxiv.org/abs/2401.08920) | Tongda Xu | Preprint'24 | Lossy Image Compression | [![Stars](https://img.shields.io/github/tongdaxu/idempotence-and-perceptual-image-compression.svg?style=social&label=Star)](https://github.com/tongdaxu/idempotence-and-perceptual-image-compression) |
+|| [Idempotence and Perceptual Image Compression](https://arxiv.org/abs/2401.08920) | Tongda Xu | Preprint'24 | Lossy Image Compression | [![Stars](https://img.shields.io/github/stars/tongdaxu/idempotence-and-perceptual-image-compression.svg?style=social&label=Star)](https://github.com/tongdaxu/idempotence-and-perceptual-image-compression) |
 |--|[TOWARDS IMAGE COMPRESSION WITH PERFECT REALISM AT ULTRA-LOW BITRATES](https://arxiv.org/abs/2310.10325) | Marlène Careil | ICLR 2024 | Lossy Image Compression |
 
 # Diffusion model-based Image quality assessment
