@@ -17,6 +17,7 @@ University of Science and Technology of China (USTC), National University of Sin
 - [x] 2023-09-19: **Updated new related works before 15/09/2023 in this GitHub.**
 - [x] 2023-11-24: **Updated new related works before 10/11/2023 in this GitHub.**
 - [x] 2023-12-25: **Updated new related works before 25/12/2023 in this GitHub.**
+- [ ] 2024-01-25: **Updated new related works before 25/01/2024 in this GitHub.**
 
 **📌 About new works.** If you want to incorporate your studies (e.g., the link of paper or project) on diffusion model-based image processing in this repository. Welcome to raise an issue or email us. We will incorporate it into this repository and our survey report as soon as possible. 
 
