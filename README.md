@@ -116,6 +116,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |DDPG|[Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance](https://arxiv.org/abs/2312.16519) | Tomer Garber | Zero-Shot| Preprint' 2023 | Image Restoration ||
 |--|[Multiscale Structure Guided Diffusion for Image Deblurring](https://arxiv.org/abs/2212.01789) | Mengwei Ren | Supervised | Preprint'22 | Blind Restoration | |
 |--|[Synthesizing realistic image restoration training pairs: A diffusion approach](https://arxiv.org/abs/2303.06994) | Tao Yang | Supervised | Preprint'22 | Blind Restoration | |
+|ZeroAIR| [Exploiting Diffusion Priors for All-in-One Image Restoration](https://arxiv.org/abs/2312.02197) | Yuanbiao Gou | Zero-shot | Preprint'23 | All-in-one Restoration| |
 ### Image Inpainting
 |Model| Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
