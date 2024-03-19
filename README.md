@@ -255,6 +255,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |Model| Paper | First Author | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: |
 |DifFIQA| [DifFIQA: Face Image Quality Assessment Using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2305.05768) | Žiga Babnik | Preprint'23 | Image quality assessment | |
+|PFD-IQA| [Feature Denoising Diffusion Model for Blind Image Quality Assessment](https://arxiv.org/abs/2401.11949) | Xudong Li | Preprint'24 | Image quality assessment | |
 
 ## Cite US
 
