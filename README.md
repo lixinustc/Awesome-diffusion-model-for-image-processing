@@ -145,6 +145,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |--|[Diffusion Posterior Proximal Sampling for Image Restoration](https://arxiv.org/abs/2402.16907) | Hongjie Wu | Zero-shot | Preprint'24 | Multi-task Restoration | |
 |--|[Multiscale Structure Guided Diffusion for Image Deblurring](https://arxiv.org/abs/2212.01789) | Mengwei Ren | Supervised | Preprint'22 | Blind Restoration | |
 |--|[Synthesizing realistic image restoration training pairs: A diffusion approach](https://arxiv.org/abs/2303.06994) | Tao Yang | Supervised | Preprint'22 | Blind Restoration | |
+|ZeroAIR| [Exploiting Diffusion Priors for All-in-One Image Restoration](https://arxiv.org/abs/2312.02197) | Yuanbiao Gou | Zero-shot | Preprint'23 | All-in-one Restoration| |
 ### Image Inpainting
 |Model| Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
