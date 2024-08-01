@@ -157,7 +157,7 @@ University of Science and Technology of China (USTC), National University of Sin
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 | BCDiff | [Boundary-Aware Divide and Conquer: A Diffusion-based Solution for Unsupervised Shadow Removal](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Boundary-Aware_Divide_and_Conquer_A_Diffusion-Based_Solution_for_Unsupervised_Shadow_ICCV_2023_paper.pdf) | Lanqing Guo | Unsupervised | ICCV 2023 | Image Shadow Removal | | 
 |ShadowDiffusion| [Shadowdiffusion: When degradation prior meets diffusion model for shadow removal](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_ShadowDiffusion_When_Degradation_Prior_Meets_Diffusion_Model_for_Shadow_Removal_CVPR_2023_paper.pdf) | Lanqing Guo | Supervised | CVPR2023 | Image Shadow Removal |[![Stars](https://img.shields.io/github/stars/GuoLanqing/ShadowDiffusion.svg?style=social&label=Star)](https://github.com/GuoLanqing/ShadowDiffusion) |
-|DeS3| [DeS3: Attention-driven Self and Soft Shadow Removal using ViT Similarity and Color Convergence](https://arxiv.org/abs/2211.08089) | Yeying Jin | Supervised | Preprint'23 | Image Shadow Removal | |
+|DeS3| [DeS3: Attention-driven Self and Soft Shadow Removal using ViT Similarity and Color Convergence](https://arxiv.org/abs/2211.08089) | Yeying Jin | Supervised | AAAI'24 | Image Shadow Removal |[![Stars](https://img.shields.io/github/stars/jinyeying/DeS3_Deshadow.svg?style=social&label=Star)](https://github.com/jinyeying/DeS3_Deshadow) |
 |LFG-Diffusion| [Latent Feature-Guided Diffusion Models for Shadow Removal](https://openaccess.thecvf.com/content/WACV2024/html/Mei_Latent_Feature-Guided_Diffusion_Models_for_Shadow_Removal_WACV_2024_paper.html) | Kangfu Mei | Supervised | WACV 2024 | Image Shadow Removal | |
 |Deshadow-Anything| [Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal](https://arxiv.org/pdf/2309.11715v1.pdf) | Xiao Feng Zhang | Supervised | Preprint'23 | Image Shadow Removal | |
 ### Image Denoising
@@ -247,6 +247,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |[Snow100k](https://arxiv.org/abs/1708.04512)|Image Desnowing|Training,Testing|2017|
 |[SRRS](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660749.pdf)|Image Desnowing|Training,Testing|2020|
 |[RainDrop](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)|Image Deraining|Training|2018|
+|[RainDropClarity](https://arxiv.org/abs/2407.16957)|Image Deraining|Training,Testing|2024|
 |[Outdoor-Rain](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)|Image Deraining|Training,Testing|2019|
 |[DDN-data](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)|Image Deraining|Training,Testing|2017|
 |[SPA-data](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Spatial_Attentive_Single-Image_Deraining_With_a_High_Quality_Real_Rain_CVPR_2019_paper.pdf)|Image Deraining|Training,Testing|2019|
