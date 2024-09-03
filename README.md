@@ -272,15 +272,20 @@ University of Science and Technology of China (USTC), National University of Sin
 | :--- | :---: | :---: | :--: | :--: |:--: |
 |DiffC| [Lossy Compression with Gaussian Diffusion](https://arxiv.org/abs/2206.08889) | Lucas Theisl | Preprint'22 | Lossy Image Compression | |
 |CDC| [Lossy Image Compression with Conditional Diffusion Models](https://arxiv.org/abs/2209.06950) | Ruihan Yang | NeurIPS 2023 | Lossy Image Compression | [![Stars](https://img.shields.io/github/stars/buggyyang/cdc_compression.svg?style=social&label=Star)](https://github.com/buggyyang/cdc_compression)|
-|--| [Extreme Generative Image Compression by Learning Text Embedding from Diffusion Models](https://arxiv.org/abs/2211.07793) | Zhihong Pan | Preprint'22 | Image Compression | |
-|DIRAC| [A Residual Diffusion Model for High Perceptual Quality Codec Augmentation](https://arxiv.org/abs/2301.05489) | Noor Fathima Ghouse | Preprint'23 | Lossy Image Compression | |
+|CorrDiff| [Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder](https://arxiv.org/abs/2404.04916) | Yiyang Ma |  ICML 2024 | Image Compression | |
+|I<sup>2</sup>VC| [I2VC: A Unified Framework for Intra- & Inter-frame Video Compression](https://arxiv.org/abs/2405.14336) | Meiqin Liu | NeurIPS2024 submission | Video Compression |[![Stars](https://img.shields.io/github/stars/GYukai/I2VC.svg?style=social&label=Star)](https://github.com/GYukai/I2VC)|
+| DiffEIC | [Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior](https://arxiv.org/abs/2404.18820) | Zhiyuan Li | IEEE TCSVT | Lossy Image Compression | |
+|PSC| [Zero-Shot Image Compression with Diffusion-Based Posterior Sampling](https://arxiv.org/abs/2407.09896) | Noam Elata | Preprint'24 | Lossy Image Compression | |
+|DIRAC| [A Residual Diffusion Model for High Perceptual Quality Codec Augmentation](https://arxiv.org/abs/2301.05489) | Noor Fathima Ghouse | Preprint'23 | Image Compression | |
 |HFD| [High-Fidelity Image Compression with Score-based Generative Models](https://arxiv.org/abs/2305.18231) | Emiel Hoogeboom | Preprint'23 | Lossy Image Compression | |
 | PerCo | [TOWARDS IMAGE COMPRESSION WITH PERFECT REALISM AT ULTRA-LOW BITRATES](https://arxiv.org/abs/2310.10325) | Marl` ene Careil | Preprint'23 | Lossy Image Compression | |
 |PIC| [Text + Sketch: Image Compression at Ultra Low Rates](https://arxiv.org/abs/2307.01944) | Eric Lei | ICML 2023 workshop  | Lossy Image Compression | |
 || [Idempotence and Perceptual Image Compression](https://arxiv.org/abs/2401.08920) | Tongda Xu | ICLR2024 | Lossy Image Compression | [![Stars](https://img.shields.io/github/stars/tongdaxu/idempotence-and-perceptual-image-compression.svg?style=social&label=Star)](https://github.com/tongdaxu/idempotence-and-perceptual-image-compression) |
+|--| [Lossy Image Compression with Foundation Diffusion Models](https://arxiv.org/abs/2404.08580) | Lucas Relic | Preprint'24 | Image Compression | |
+|--| [Extreme Generative Image Compression by Learning Text Embedding from Diffusion Models](https://arxiv.org/abs/2211.07793) | Zhihong Pan | Preprint'22 | Image Compression | |
 |--|[TOWARDS IMAGE COMPRESSION WITH PERFECT REALISM AT ULTRA-LOW BITRATES](https://arxiv.org/abs/2310.10325) | Marlène Careil | ICLR 2024 | Lossy Image Compression |
 
-# Diffusion model-based Image quality assessment
+# Diffusion model-based Image/Video quality assessment
 |Model| Paper | First Author | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: |
 |DifFIQA| [DifFIQA: Face Image Quality Assessment Using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2305.05768) | Žiga Babnik | Preprint'23 | Image quality assessment | |
