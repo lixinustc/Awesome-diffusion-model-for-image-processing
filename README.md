@@ -151,12 +151,14 @@ University of Science and Technology of China (USTC), National University of Sin
 |--|[Diffusion Posterior Proximal Sampling for Image Restoration](https://arxiv.org/abs/2402.16907) | Hongjie Wu | Zero-shot | Preprint'24 | Multi-task Restoration | |
 |--|[Multiscale Structure Guided Diffusion for Image Deblurring](https://arxiv.org/abs/2212.01789) | Mengwei Ren | Supervised | Preprint'22 | Blind Restoration | |
 |--|[Synthesizing realistic image restoration training pairs: A diffusion approach](https://arxiv.org/abs/2303.06994) | Tao Yang | Supervised | Preprint'22 | Blind Restoration | |
+
 ### Image Inpainting
 |Model| Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 |RePaint| [RePaint: Inpainting using denoising diffusion probabilistic models](https://openaccess.thecvf.com/content/CVPR2022/papers/Lugmayr_RePaint_Inpainting_Using_Denoising_Diffusion_Probabilistic_Models_CVPR_2022_paper.pdf) | Andreas Lugmayr  | Zero-shot | CVPR2022 | Image Inpainting | [![Stars](https://img.shields.io/github/stars/andreas128/RePaint.svg?style=social&label=Star)](https://github.com/andreas128/RePaint) | 
 |CoPaint| [Towards coherent image inpainting using denoising diffusion implicit models](https://arxiv.org/abs/2304.03322) | Guanhua Zhang | Zero-shot | PrePrint'23 | Image Inpainting | [![Stars](https://img.shields.io/github/stars/UCSB-NLP-Chang/CoPaint.svg?style=social&label=Star)](https://github.com/UCSB-NLP-Chang/CoPaint) |
 |PVA| [Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention](https://arxiv.org/abs/2312.03556) | Jianjin Xu | Zero-shot | PrePrint'23 | Image Inpainting | |
+
 ### Image Shadow Removal 
 | Model| Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
@@ -166,17 +168,20 @@ University of Science and Technology of China (USTC), National University of Sin
 |Diff-Shadow| [Diff-Shadow: Global-guided Diffusion Model for Shadow Removal](https://www.arxiv.org/abs/2407.16214) | Jinting Luo | Supervised | Preprint'24 | Image Shadow Removal | |
 |LFG-Diffusion| [Latent Feature-Guided Diffusion Models for Shadow Removal](https://openaccess.thecvf.com/content/WACV2024/html/Mei_Latent_Feature-Guided_Diffusion_Models_for_Shadow_Removal_WACV_2024_paper.html) | Kangfu Mei | Supervised | WACV 2024 | Image Shadow Removal | |
 |Deshadow-Anything| [Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal](https://arxiv.org/pdf/2309.11715v1.pdf) | Xiao Feng Zhang | Supervised | Preprint'23 | Image Shadow Removal | |
+
 ### Image Denoising
 | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :--: | :--: |:--: | :--: |
 | [Diffusion model for generative image denoising](https://arxiv.org/abs/2302.02398) | Yutong Xie | Supervised | Preprint'23 | Image Denoising | |
 |[Score-Based Diffusion Models as Principled Priors for Inverse Imaging](https://arxiv.org/abs/2304.11751) | Berthy T. Feng | Zero-shot | ICCV 2023 | Image Denoising, Image Deblurring | [![Stars](https://img.shields.io/github/stars/berthyf96/score_prior.svg?style=social&label=Star)](https://github.com/berthyf96/score_prior) |
 | [Real-World Denoising via Diffusion Model](https://arxiv.org/abs/2305.04457) | Cheng Yang | Supervised | PrePrint'23 | Image Denoising| |
+
 ### Image Dehazing
 |Model|Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 |HazeDDPM|[High-quality Image Dehazing with Diffusion Model](https://arxiv.org/abs/2308.11949) | Hu Yu | Supervised | Preprint'23 | Image Dehazing | |
 |--|[Frequency Compensated Diffusion Model for Real-scene Dehazing](https://arxiv.org/abs/2308.10510) | Jing Wang | Supervised | Preprint'23 | Image Dehazing | |
+
 ### Image Deblurring
 | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :--: | :--: |:--: | :--: |
@@ -185,6 +190,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |BlindDPS:[Parallel diffusion models of operator and image for blind inverse problems](https://openaccess.thecvf.com/content/CVPR2023/papers/Chung_Parallel_Diffusion_Models_of_Operator_and_Image_for_Blind_Inverse_CVPR_2023_paper.pdf) | Hyungjin Chung | Zero-shot | CVPR2023 | Blind Deblurring | [![Stars](https://img.shields.io/github/stars/BlindDPS/blind-dps.svg?style=social&label=Star)](https://github.com/BlindDPS/blind-dps) |
 |HI-Diff:[Hierarchical Integration Diffusion Model for Realistic Image Deblurring](https://arxiv.org/abs/2305.12966) | Zheng Chen | Supervised | Prepreint'23 | Image Deblurring |[![Stars](https://img.shields.io/github/stars/zhengchen1999/HI-Diff.svg?style=social&label=Star)](https://github.com/zhengchen1999/HI-Diff)|
 |Swintormer:[Efficient Image Deblurring Networks based on Diffusion Models](https://arxiv.org/abs/2401.05907) | Kang Chen | Supervised | Prepreint'24 | Image Deblurring |[![Stars](https://img.shields.io/github/stars/bnm6900030/swintormer.svg?style=social&label=Star)](https://github.com/bnm6900030/swintormer)|
+
 ### Medical Restoration (MRI,CT)
 |Model| Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
@@ -194,6 +200,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |HFS-SDE|[High-Frequency Space Diffusion Models for Accelerated MRI](https://arxiv.org/abs/2208.05481) | Chentao Cao | Supervised | Preprint'22 | MRI Reconstruction | |
 |SWORD|[Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-View CT Reconstruction](https://arxiv.org/abs/2308.15942) | Kai Xu | Supervised | Preprint'23 | MRI Reconstruction | [![Stars](https://img.shields.io/github/stars/yqx7150/sword.svg?style=social&label=Star)](https://github.com/yqx7150/sword) |
 |FDB|[Learning Fourier-Constrained Diffusion Bridges for MRI Reconstruction](https://arxiv.org/pdf/2308.01096.pdf) | Muhammad U. Mirza | Supervised | Preprint'23 | MRI Reconstruction | [![Stars](https://img.shields.io/github/stars/icon-lab/FDB.svg?style=social&label=Star)](https://github.com/icon-lab/FDB) |
+
 ### Low-Light Enchancement
 |Model|Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
@@ -206,6 +213,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |DiffLLE|[DiffLLE: Diffusion-guided Domain Calibration for Unsupervised Low-light Image Enhancement](https://arxiv.org/abs/2308.09279) | Shuzhou Yang | Supervised | Preprint'23 | Low-light Enhancemnent | |
 |LLDiffusion|[LLDiffusion: Learning Degradation Representations in Diffusion Models for Low-Light Image Enhancement](https://arxiv.org/abs/2307.14659) | Tao Wang | Supervised | Preprint'23 | Low-light Enhancemnent |  [![Stars](https://img.shields.io/github/stars/TaoWangzj/LLDiffusion.svg?style=social&label=Star)](https://github.com/TaoWangzj/LLDiffusion) |
 |Entropy-SDE|[Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement](https://arxiv.org/abs/2404.09735) | Wenyi Lian | Supervised | CVPRW 2024 | Low-light Enhancemnent |  [![Stars](https://img.shields.io/github/stars/shermanlian/spatial-entropy-loss.svg?style=social&label=Star)](https://github.com/shermanlian/spatial-entropy-loss) |
+
 ### Other tasks
 |Model|Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
@@ -288,8 +296,12 @@ University of Science and Technology of China (USTC), National University of Sin
 # Diffusion model-based Image/Video quality assessment
 |Model| Paper | First Author | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: |
-|DifFIQA| [DifFIQA: Face Image Quality Assessment Using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2305.05768) | Žiga Babnik | Preprint'23 | Image quality assessment | |
+|DifFIQA| [DifFIQA: Face Image Quality Assessment Using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2305.05768) | Žiga Babnik | Preprint'23 | Image quality assessment |[![Stars](https://img.shields.io/github/stars/LSIbabnikz/DifFIQA.svg?style=social&label=Star)](https://github.com/LSIbabnikz/DifFIQA)|
 |PFD-IQA| [Feature Denoising Diffusion Model for Blind Image Quality Assessment](https://arxiv.org/abs/2401.11949) | Xudong Li | Preprint'24 | Image quality assessment | |
+|DP-IQA| [DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild](https://arxiv.org/abs/2405.19996) | Honghao Fu | Preprint'24 | Image quality assessment |[![Stars](https://img.shields.io/github/stars/RomGai/DP-IQA.svg?style=social&label=Star)](https://github.com/RomGai/DP-IQA)|
+|GenzIQA| [GenzIQA: Generalized Image Quality Assessment using Prompt-Guided Latent Diffusion Models](https://arxiv.org/abs/2406.04654) | Diptanu De | Preprint'24 | Image quality assessment ||
+|DiffV<sup>2</sup>IQA</span>| [Diffusion Model Based Visual Compensation Guidance and Visual Difference Analysis for No-Reference Image Quality Assessment](https://arxiv.org/abs/2402.14401) | Zhaoyang Wang | Preprint'24 | Image quality assessment ||
+
 
 ## Cite US
 
