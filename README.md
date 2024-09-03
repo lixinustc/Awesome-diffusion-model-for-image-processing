@@ -287,12 +287,11 @@ University of Science and Technology of China (USTC), National University of Sin
 |PSC| [Zero-Shot Image Compression with Diffusion-Based Posterior Sampling](https://arxiv.org/abs/2407.09896) | Noam Elata | Preprint'24 | Lossy Image Compression | |
 |DIRAC| [A Residual Diffusion Model for High Perceptual Quality Codec Augmentation](https://arxiv.org/abs/2301.05489) | Noor Fathima Ghouse | Preprint'23 | Image Compression | |
 |HFD| [High-Fidelity Image Compression with Score-based Generative Models](https://arxiv.org/abs/2305.18231) | Emiel Hoogeboom | Preprint'23 | Lossy Image Compression | |
-| PerCo | [TOWARDS IMAGE COMPRESSION WITH PERFECT REALISM AT ULTRA-LOW BITRATES](https://arxiv.org/abs/2310.10325) | Marl` ene Careil | Preprint'23 | Lossy Image Compression | |
+| PerCo | [Towards image compression with perfect realism at ultra-low bitrates](https://arxiv.org/abs/2310.10325) | Marl` ene Careil | ICLR 2024 | Lossy Image Compression | |
 |PIC| [Text + Sketch: Image Compression at Ultra Low Rates](https://arxiv.org/abs/2307.01944) | Eric Lei | ICML 2023 workshop  | Lossy Image Compression | |
 || [Idempotence and Perceptual Image Compression](https://arxiv.org/abs/2401.08920) | Tongda Xu | ICLR2024 | Lossy Image Compression | [![Stars](https://img.shields.io/github/stars/tongdaxu/idempotence-and-perceptual-image-compression.svg?style=social&label=Star)](https://github.com/tongdaxu/idempotence-and-perceptual-image-compression) |
 |--| [Lossy Image Compression with Foundation Diffusion Models](https://arxiv.org/abs/2404.08580) | Lucas Relic | Preprint'24 | Image Compression | |
 |--| [Extreme Generative Image Compression by Learning Text Embedding from Diffusion Models](https://arxiv.org/abs/2211.07793) | Zhihong Pan | Preprint'22 | Image Compression | |
-|--|[TOWARDS IMAGE COMPRESSION WITH PERFECT REALISM AT ULTRA-LOW BITRATES](https://arxiv.org/abs/2310.10325) | Marlène Careil | ICLR 2024 | Lossy Image Compression |
 
 # Diffusion model-based Image/Video quality assessment
 <a id="IQA"></a>
@@ -304,11 +303,8 @@ University of Science and Technology of China (USTC), National University of Sin
 |GenzIQA| [GenzIQA: Generalized Image Quality Assessment using Prompt-Guided Latent Diffusion Models](https://arxiv.org/abs/2406.04654) | Diptanu De | Preprint'24 | Image quality assessment ||
 |DiffV<sup>2</sup>IQA</span>| [Diffusion Model Based Visual Compensation Guidance and Visual Difference Analysis for No-Reference Image Quality Assessment](https://arxiv.org/abs/2402.14401) | Zhaoyang Wang | Preprint'24 | Image quality assessment ||
 
-
 ## Cite US
-
 If this work is helpful to you, we expect you can cite this work and star this repo. Thanks.
-
 ```
 @article{li2023diffusion,
   title={Diffusion Models for Image Restoration and Enhancement--A Comprehensive Survey},
@@ -317,6 +313,7 @@ If this work is helpful to you, we expect you can cite this work and star this r
   year={2023}
 }
 ```
+
 
  <p align="center">
   <a href="https://star-history.com/#lixinustc/Awesome-diffusion-model-for-image-processing&Date">
