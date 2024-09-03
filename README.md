@@ -49,7 +49,8 @@ University of Science and Technology of China (USTC), National University of Sin
 - [Diffusion model for Low-Light Enchancement](#low-light-enchancement)
 - [Diffusion model for other tasks](#other-tasks)
 - [Benchmark Datasets](#benchmark-datasets)
-<!-- - [Diffusion model for Image/video compression](#compression) -->
+- [Diffusion model for Image/video compression](#compression)
+- [Diffusion model for Image/video quality assessment](#IQA)
   <!-- - [Recommended Datasets](#recommended-datasets)
   - [All Datasets](#all-datasets) -->
 
@@ -294,6 +295,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |--|[TOWARDS IMAGE COMPRESSION WITH PERFECT REALISM AT ULTRA-LOW BITRATES](https://arxiv.org/abs/2310.10325) | Marlène Careil | ICLR 2024 | Lossy Image Compression |
 
 # Diffusion model-based Image/Video quality assessment
+<a id="IQA"></a>
 |Model| Paper | First Author | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: |
 |DifFIQA| [DifFIQA: Face Image Quality Assessment Using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2305.05768) | Žiga Babnik | Preprint'23 | Image quality assessment |[![Stars](https://img.shields.io/github/stars/LSIbabnikz/DifFIQA.svg?style=social&label=Star)](https://github.com/LSIbabnikz/DifFIQA)|
