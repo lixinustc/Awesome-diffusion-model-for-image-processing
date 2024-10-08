@@ -22,7 +22,7 @@ University of Science and Technology of China (USTC), National University of Sin
 - [x] 2024-04-25: **Updated new related works before 25/04/2024 in this GitHub.**
 - [x] 2024-06-25: **Updated new related works before 25/06/2024 in this GitHub.**
 - [x] 2024-08-25: **Updated new related works before 25/08/2024 in this GitHub.**
-- [] 2024-10-25: **Updated new related works before 25/10/2024 in this GitHub.**
+- [ ] 2024-10-25: **Updated new related works before 25/10/2024 in this GitHub.**
 
 **📌 About new works.** If you want to incorporate your studies (e.g., the link of paper or project) on diffusion model-based image processing in this repository. Welcome to raise an issue or email us. We will incorporate it into this repository and our survey report as soon as possible. 
 
@@ -127,6 +127,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |PFStorer|[PFStorer: Personalized Face Restoration and Super-Resolution](https://arxiv.org/abs/2403.08436) | Tuomas Varanka | Supervised | Preprint'24 | Blind Face Restoration | |
 |DiffBFR|[DiffBFR: Bootstrapping diffusion model towards blind face restoration](https://arxiv.org/abs/2305.04517) | Xinmin Qiu | Supervised | Preprint'23 | Blind Face Restoration | |
 |DifFace|[DifFace: Blind face restoration with diffused error contraction](https://arxiv.org/abs/2212.06512) | Zongsheng Yu | Zero-Shot | PrePrint'23 | Blind Restoration | [![Stars](https://img.shields.io/github/stars/zsyOAOA/DifFace.svg?style=social&label=Star)](https://github.com/zsyOAOA/DifFace) |
+|--|[Towards Unsupervised Blind Face Restoration using Diffusion Prior](https://arxiv.org/abs/2410.04618) | Tianshu Kuai | Supervised | PrePrint'24 | Blind Restoration ||
 |GibbsDDRM|[GibbsDDRM: A partially collapsed gibbs sampler for solving blind inverse problems with denoising diffusion restoration](https://arxiv.org/abs/2301.12686) | Naoki Murata | Zero-Shot | ICML 2023 | Blind Restoration | [![Stars](https://img.shields.io/github/stars/sony/gibbsddrm.svg?style=social&label=Star)](https://github.com/sony/gibbsddrm) |
 |ADIR|[ADIR: Adaptive diffusion for image reconstruction](https://arxiv.org/abs/2212.03221) | Shady Abu-Hussein | Zero-Shot | PrePrint'22 | Blind Restoration | |
 |PSLD|[Solving Linear Inverse Problems Provably via Posterior Sampling with Latent Diffusion Models](https://arxiv.org/abs/2307.00619) | Litu Rout | Zero-Shot | PrePrint'23 | Image Restoration | [![Stars](https://img.shields.io/github/stars/LituRout/PSLD.svg?style=social&label=Star)](https://github.com/LituRout/PSLD) |
