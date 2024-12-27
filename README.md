@@ -11,7 +11,7 @@ University of Science and Technology of China (USTC), National University of Sin
 
 **Brief intro**: The survey for diffusion model-based IR has been released.
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2308.09388v1.pdf)  [![Tutorial PPT for VCIP2024](https://img.shields.io/badge/Tutorial-PPT(VCIP2024)-magenta)]()  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lixinustc/Awesome-diffusion-model-for-image-processing)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2308.09388v1.pdf)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lixinustc/Awesome-diffusion-model-for-image-processing)
 
 ## :bookmark: News!!!
 - [x] 2023-09-19: **Updated new related works before 15/09/2023 in this GitHub.**
@@ -23,7 +23,7 @@ University of Science and Technology of China (USTC), National University of Sin
 - [x] 2024-06-25: **Updated new related works before 25/06/2024 in this GitHub.**
 - [x] 2024-08-25: **Updated new related works before 25/08/2024 in this GitHub.**
 - [x] 2024-10-25: **Updated new related works before 25/10/2024 in this GitHub.**
-- [ ] 2024-12-25: **Updated new related works before 25/12/2024 in this GitHub.**
+- [x] 2024-12-25: **Updated new related works before 25/12/2024 in this GitHub.**
 
 **📌 About new works.** If you want to incorporate your studies (e.g., the link of paper or project) on diffusion model-based image processing in this repository. Welcome to raise an issue or email us. We will incorporate it into this repository and our survey report as soon as possible. 
 
@@ -69,6 +69,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |ResShift| [ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting](https://arxiv.org/pdf/2307.12348.pdf) | Zongsheng Yue | Supervised | NeurIPS 2023 | Real-World Super-resolution | [![Stars](https://img.shields.io/github/stars/zsyOAOA/ResShift.svg?style=social&label=Star)](https://github.com/zsyOAOA/ResShift)|
 |DFOSD| [Distillation-Free One-Step Diffusion for Real-World Image Super-Resolution](https://arxiv.org/pdf/2410.04224) | Jianze Li | Supervised | Preprint'24 | Real-World Super-resolution | [![Stars](https://img.shields.io/github/stars/JianzeLi-114/DFOSD.svg?style=social&label=Star)](https://github.com/JianzeLi-114/DFOSD)|
 |ECDP| [Efficient Conditional Diffusion Model with Probability Flow Sampling for Image Super-resolution](https://arxiv.org/abs/2404.10688) | Yutao Yuan | Supervised | AAAI 2024 | Super-resolution |  [![Stars](https://img.shields.io/github/stars/Yuan-Yutao/ECDP.svg?style=social&label=Star)](https://github.com/Yuan-Yutao/ECDP) |
+|ClearSR| [ClearSR: Latent Low-Resolution Image Embeddings Help Diffusion-Based Real-World Super Resolution Models See Clearer](https://arxiv.org/abs/2410.14279) | Yuhao Wan | Supervised | Preprint' 2024 | Real-World Super-resolution ||
 |SinSR| [SinSR: Diffusion-Based Image Super-Resolution in a Single Step](https://arxiv.org/abs/2311.14760) | Yufei Wang | Supervised | CVPR 2024 | Real-World Super-resolution | [![Stars](https://img.shields.io/github/stars/wyf0912/SinSR.svg?style=social&label=Star)](https://github.com/wyf0912/SinSR)|
 |TextDiff| [TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution](https://arxiv.org/abs/2308.06743) | Baolin Liu | Supervised | Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/Lenubolim/TextDiff.svg?style=social&label=Star)](https://github.com/Lenubolim/TextDiff) |
 |PASD| [Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization](https://arxiv.org/abs/2308.14469) | Tao Yang | Supervised |Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/yangxy/pasd.svg?style=social&label=Star)](https://github.com/yangxy/pasd) |
