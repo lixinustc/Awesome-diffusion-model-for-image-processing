@@ -40,6 +40,7 @@ University of Science and Technology of China (USTC), National University of Sin
 - [Table of contents](#table-of-contents) -->
 - [Diffusion model for Image Super resolution](#image-super-resolution)
 - [Diffusion model for Image Restoration](#image-restoration)
+- [Diffusion model for Video Restoration](#video-restoration)
 - [Diffusion model for Image Inpainting](#image-inpainting)
 - [Diffusion model for Image Shadow Removal](#image-shadow-removal)
 - [Diffusion model for Image Denoising](#image-denoising)
@@ -158,6 +159,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |JCDM|[Joint Conditional Diffusion Model for Image Restoration with Mixed Degradations](https://arxiv.org/abs/2404.07770) | Yufeng Yue | Supervised | Preprint' 2024 | Image Restoration ||
 |DACLIP-IR|[Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models](https://arxiv.org/pdf/2404.09732) | Ziwei Luo | Supervised | Preprint' 2024 | Image Restoration |[![Stars](https://img.shields.io/github/stars/Algolzw/daclip-uir.svg?style=social&label=Star)](https://github.com/Algolzw/daclip-uir)|
 |MoE-DiffIR|[MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration](https://arxiv.org/abs/2407.10833) | Yulin Ren | Supervised | ECCV 2024 | Image Restoration |[![Stars](https://img.shields.io/github/stars/renyulin-f/MoE-DiffIR.svg?style=social&label=Star)](https://github.com/renyulin-f/MoE-DiffIR)|
+|OneRestore|[OneRestore: A Universal Restoration Framework for Composite Degradation](https://arxiv.org/abs/2407.04621) | Yu Guo | Supervised | ECCV 2024 | Image Restoration |[![Stars](https://img.shields.io/github/stars/gy65896/OneRestore.svg?style=social&label=Star)](https://github.com/gy65896/OneRestore)|
 |Noise-DA|[Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration](https://arxiv.org/abs/2406.18516) | Kang Liao | Supervised | Preprint' 2024 | Image Restoration |[![Stars](https://img.shields.io/github/stars/KangLiao929/Noise-DA.svg?style=social&label=Star)](https://github.com/KangLiao929/Noise-DA/)|
 |T^3^-DiffWeather|[Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint](https://arxiv.org/abs/2409.15739) | Sixiang Chen | Supervised | ECCV 2024 | Adverse Weather Restoration |[![Stars](https://img.shields.io/github/stars/Ephemeral182/ECCV24_T3-DiffWeather.svg?style=social&label=Star)](https://github.com/Ephemeral182/ECCV24_T3-DiffWeather)|
 |VSPBFR|[Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration](https://arxiv.org/abs/2412.21042) | Wanglong Lu | Supervised | Preprint' 24 | Blind Face Restoration |[![Stars](https://img.shields.io/github/stars/LonglongaaaGo/VSPBFR.svg?style=social&label=Star)](https://github.com/LonglongaaaGo/VSPBFR)|
@@ -169,6 +171,10 @@ University of Science and Technology of China (USTC), National University of Sin
 |--|[Multiscale Structure Guided Diffusion for Image Deblurring](https://arxiv.org/abs/2212.01789) | Mengwei Ren | Supervised | Preprint'22 | Blind Restoration | |
 |--|[Synthesizing realistic image restoration training pairs: A diffusion approach](https://arxiv.org/abs/2303.06994) | Tao Yang | Supervised | Preprint'22 | Blind Restoration | |
 
+### Video Restoration
+|Diff-TTA|[Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal](https://arxiv.org/abs/2403.07684) | Yijun Yang | Supervised | CVPR 2024 | Video Restoration |[![Stars](https://img.shields.io/github/stars/scott-yjyang/DiffTTA.svg?style=social&label=Star)](https://github.com/scott-yjyang/DiffTTA)|
+|TDM|[TDM: Temporally-Consistent Diffusion Model for All-in-One Real-World Video Restoration](https://arxiv.org/abs/2501.02269) | Yizhou Li | Supervised | MMM 2025 | Video Restoration ||
+|AverNet|[AverNet: All-in-one Video Restoration for Time-varying Unknown Degradations](https://papers.nips.cc/paper_files/paper/2024/hash/e635a25e49e73adc51f76aef462ff2f8-Abstract-Conference.html) | Haiyu Zhao | Supervised | NeurIPS 2024 | Video Restoration |[![Stars](https://img.shields.io/github/stars/XLearning-SCU/2024-NeurIPS-AverNet.svg?style=social&label=Star)](https://github.com/XLearning-SCU/2024-NeurIPS-AverNet)|
 ### Image Inpainting
 |Model| Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
