@@ -172,6 +172,8 @@ University of Science and Technology of China (USTC), National University of Sin
 |--|[Synthesizing realistic image restoration training pairs: A diffusion approach](https://arxiv.org/abs/2303.06994) | Tao Yang | Supervised | Preprint'22 | Blind Restoration | |
 
 ### Video Restoration
+| Model | Paper | First Author | Training Way | Venue | Topic | Project |
+| :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 |Diff-TTA|[Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal](https://arxiv.org/abs/2403.07684) | Yijun Yang | Supervised | CVPR 2024 | Video Restoration |[![Stars](https://img.shields.io/github/stars/scott-yjyang/DiffTTA.svg?style=social&label=Star)](https://github.com/scott-yjyang/DiffTTA)|
 |TDM|[TDM: Temporally-Consistent Diffusion Model for All-in-One Real-World Video Restoration](https://arxiv.org/abs/2501.02269) | Yizhou Li | Supervised | MMM 2025 | Video Restoration ||
 |AverNet|[AverNet: All-in-one Video Restoration for Time-varying Unknown Degradations](https://papers.nips.cc/paper_files/paper/2024/hash/e635a25e49e73adc51f76aef462ff2f8-Abstract-Conference.html) | Haiyu Zhao | Supervised | NeurIPS 2024 | Video Restoration |[![Stars](https://img.shields.io/github/stars/XLearning-SCU/2024-NeurIPS-AverNet.svg?style=social&label=Star)](https://github.com/XLearning-SCU/2024-NeurIPS-AverNet)|
