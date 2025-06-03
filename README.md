@@ -23,6 +23,7 @@ University of Science and Technology of China (USTC), National University of Sin
 - [x] 2024-08-25: **Updated new related works before 25/08/2024 in this GitHub.**
 - [x] 2024-12-25: **Updated new related works before 25/12/2024 in this GitHub.**
 - [x] 2025-03-25: **Updated new related works before 25/03/2025 in this GitHub.**
+- [x] 2025-05-25: **Updated new related works before 25/05/2025 in this GitHub.**
 
 **📌 About new works.** If you want to incorporate your studies (e.g., the link of paper or project) on diffusion model-based image processing in this repository. Welcome to raise an issue or email us. We will incorporate it into this repository and our survey report as soon as possible. 
 
@@ -163,10 +164,12 @@ University of Science and Technology of China (USTC), National University of Sin
 |Noise-DA|[Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration](https://arxiv.org/abs/2406.18516) | Kang Liao | Supervised | Preprint' 2024 | Image Restoration |[![Stars](https://img.shields.io/github/stars/KangLiao929/Noise-DA.svg?style=social&label=Star)](https://github.com/KangLiao929/Noise-DA/)|
 |T^3^-DiffWeather|[Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint](https://arxiv.org/abs/2409.15739) | Sixiang Chen | Supervised | ECCV 2024 | Adverse Weather Restoration |[![Stars](https://img.shields.io/github/stars/Ephemeral182/ECCV24_T3-DiffWeather.svg?style=social&label=Star)](https://github.com/Ephemeral182/ECCV24_T3-DiffWeather)|
 |VSPBFR|[Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration](https://arxiv.org/abs/2412.21042) | Wanglong Lu | Supervised | Preprint' 24 | Blind Face Restoration |[![Stars](https://img.shields.io/github/stars/LonglongaaaGo/VSPBFR.svg?style=social&label=Star)](https://github.com/LonglongaaaGo/VSPBFR)|
+|--|[Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios](https://arxiv.org/abs/2503.07232) | Chenglu Pan | Supervised | Preprint' 25 | Blind Face Restoration ||
 |ReviveDiff|[ReviveDiff: A Universal Diffusion Model for Restoring Images in Adverse Weather Conditions](https://arxiv.org/abs/2409.18932) | Wenfeng Huang | Supervised | Preprint' 24 | Adverse Weather Restoration ||
 |GenDeg|[GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration](https://arxiv.org/abs/2411.17687) | Sudarshan Rajagopalan | Supervised | Preprint' 24 | All in one Image Restoration ||
 |Diff-Restorer|[Diff-Restorer: Unleashing Visual Prompts for Diffusion-based Universal Image Restoration](https://arxiv.org/abs/2407.03636) | Yuhong Zhang | Supervised | Preprint' 24 | Image Restoration ||
 |Res-Captioner|[Beyond Pixels: Text Enhances Generalization in Real-World Image Restoration](https://arxiv.org/abs/2412.00878) | Haoze Sun | Supervised | Preprint' 2024 | Image Restoration ||
+|HAODiff| [HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance](https://arxiv.org/abs/2505.19742) | Jue Gong | Supervised | Preprint'25 | Image Restoration | |
 |--|[Diffusion Posterior Proximal Sampling for Image Restoration](https://arxiv.org/abs/2402.16907) | Hongjie Wu | Zero-Shot | Preprint'24 | Multi-task Restoration | |
 |--|[Multiscale Structure Guided Diffusion for Image Deblurring](https://arxiv.org/abs/2212.01789) | Mengwei Ren | Supervised | Preprint'22 | Blind Restoration | |
 |--|[Synthesizing realistic image restoration training pairs: A diffusion approach](https://arxiv.org/abs/2303.06994) | Tao Yang | Supervised | Preprint'22 | Blind Restoration | |
