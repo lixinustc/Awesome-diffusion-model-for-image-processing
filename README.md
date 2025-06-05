@@ -167,6 +167,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |--|[Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios](https://arxiv.org/abs/2503.07232) | Chenglu Pan | Supervised | Preprint' 25 | Blind Face Restoration ||
 |ReviveDiff|[ReviveDiff: A Universal Diffusion Model for Restoring Images in Adverse Weather Conditions](https://arxiv.org/abs/2409.18932) | Wenfeng Huang | Supervised | Preprint' 24 | Adverse Weather Restoration ||
 |GenDeg|[GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration](https://arxiv.org/abs/2411.17687) | Sudarshan Rajagopalan | Supervised | Preprint' 24 | All in one Image Restoration ||
+|CyclicPrompt|[Prompt to Restore, Restore to Prompt: Cyclic  Prompting for Universal Adverse Weather Removal](https://arxiv.org/abs/2503.09013) | Rongxin Liao | Supervised | Preprint' 25 | All in one Image Restoration ||
 |Diff-Restorer|[Diff-Restorer: Unleashing Visual Prompts for Diffusion-based Universal Image Restoration](https://arxiv.org/abs/2407.03636) | Yuhong Zhang | Supervised | Preprint' 24 | Image Restoration ||
 |Res-Captioner|[Beyond Pixels: Text Enhances Generalization in Real-World Image Restoration](https://arxiv.org/abs/2412.00878) | Haoze Sun | Supervised | Preprint' 2024 | Image Restoration ||
 |HAODiff| [HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance](https://arxiv.org/abs/2505.19742) | Jue Gong | Supervised | Preprint'25 | Image Restoration | |
@@ -179,6 +180,7 @@ University of Science and Technology of China (USTC), National University of Sin
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
 |Diff-TTA|[Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal](https://arxiv.org/abs/2403.07684) | Yijun Yang | Supervised | CVPR 2024 | Video Restoration |[![Stars](https://img.shields.io/github/stars/scott-yjyang/DiffTTA.svg?style=social&label=Star)](https://github.com/scott-yjyang/DiffTTA)|
 |TDM|[TDM: Temporally-Consistent Diffusion Model for All-in-One Real-World Video Restoration](https://arxiv.org/abs/2501.02269) | Yizhou Li | Supervised | MMM 2025 | Video Restoration ||
+|UniFlowRestore|[UniFlowRestore: A General Video Restoration Framework via Flow Matching and Prompt Guidance](https://arxiv.org/abs/2504.09069) | Shuning Sun | Supervised | Preprint' 25 | Video Restoration ||
 |AverNet|[AverNet: All-in-one Video Restoration for Time-varying Unknown Degradations](https://papers.nips.cc/paper_files/paper/2024/hash/e635a25e49e73adc51f76aef462ff2f8-Abstract-Conference.html) | Haiyu Zhao | Supervised | NeurIPS 2024 | Video Restoration |[![Stars](https://img.shields.io/github/stars/XLearning-SCU/2024-NeurIPS-AverNet.svg?style=social&label=Star)](https://github.com/XLearning-SCU/2024-NeurIPS-AverNet)|
 ### Image Inpainting
 |Model| Paper | First Author | Training Way | Venue | Topic | Project |
