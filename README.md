@@ -24,6 +24,7 @@ University of Science and Technology of China (USTC), National University of Sin
 - [x] 2024-12-25: **Updated new related works before 25/12/2024 in this GitHub.**
 - [x] 2025-03-25: **Updated new related works before 25/03/2025 in this GitHub.**
 - [x] 2025-05-25: **Updated new related works before 25/05/2025 in this GitHub.**
+- [x] 2025-08-25: **Updated new related works before 25/08/2025 in this GitHub.**
 
 **📌 About new works.** If you want to incorporate your studies (e.g., the link of paper or project) on diffusion model-based image processing in this repository. Welcome to raise an issue or email us. We will incorporate it into this repository and our survey report as soon as possible. 
 
@@ -99,11 +100,15 @@ University of Science and Technology of China (USTC), National University of Sin
 |OSEDiff| [One-Step Effective Diffusion Network for Real-World Image Super-Resolution](https://arxiv.org/abs/2406.08177) | Rongyuan Wu | Supervised | Preprint'24 | Super-resolution | |
 |DiffTSR| [Diffusion-based Blind Text Image Super-Resolution](https://arxiv.org/abs/2312.08886) | Yuzhe Zhang | Supervised | CVPR 2024 | Super-resolution |  |
 |SAM-DiffSR| [SAM-DiffSR: Structure-Modulated Diffusion Model for Image Super-Resolution](https://arxiv.org/abs/2402.17133) | Chengcheng Wang | Supervised | Preprint'24 | Super-resolution |  [![Stars](https://img.shields.io/github/stars/lose4578/SAM-DiffSR.svg?style=social&label=Star)](https://github.com/lose4578/SAM-DiffSR) |
+|TVT| [Fine-structure Preserved Real-world Image Super-resolution via Transfer VAE Training](https://arxiv.org/abs/2507.20291) | Qiaosi Yi | Supervised | ICCV 2025 | Super-resolution |  [![Stars](https://img.shields.io/github/stars/Joyies/TVT.svg?style=social&label=Star)](https://github.com/Joyies/TVT) |
+|DiT4SR| [DiT4SR: Taming Diffusion Transformer for Real-World Image Super-Resolution](https://arxiv.org/abs/2503.23580) | Zheng-Peng Duan | Supervised | ICCV 2025 | Super-resolution |  [![Stars](https://img.shields.io/github/stars/Adam-duan/DiT4SR.svg?style=social&label=Star)](https://github.com/Adam-duan/DiT4SR) |
 |BlindDiff| [BlindDiff: Empowering Degradation Modelling in Diffusion Models for Blind Image Super-Resolution](https://arxiv.org/abs/2403.10211) | Feng Li | Supervised | Preprint'24 | Super-resolution |  [![Stars](https://img.shields.io/github/stars/lifengcs/BlindDiff.svg?style=social&label=Star)](https://github.com/lifengcs/BlindDiff) |
 |XPSR| [XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution](https://arxiv.org/abs/2403.05049) | Yunpeng Qu | Supervised | Preprint'24 | Super-resolution |  [![Stars](https://img.shields.io/github/stars/qyp2000/XPSR.svg?style=social&label=Star)](https://github.com/qyp2000/XPSR) |
 |--| [Text-guided Explorable Image Super-resolution](https://arxiv.org/abs/2403.01124) | Kanchana Vaishnavi Gandikota | Zero-Shot | Preprint'24 | Super-resolution ||
 |--| [Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach](https://arxiv.org/pdf/2310.12004v2.pdf) | Feng Luo | Supervised | Preprint'23 | Super-resolution | [![Stars](https://img.shields.io/github/stars/tencent-ailab/Frequency_Aug_VAE_MoESR.svg?style=social&label=Star)](https://github.com/tencent-ailab/Frequency_Aug_VAE_MoESR) |
 |--| [Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution](https://arxiv.org/abs/2305.15357) | Yiyang Ma | Supervised | Preprint'23 | Super-resolution |  |
+|--| [Diffusion Transformer meets Multi-level Wavelet Spectrum for Single Image Super-Resolution](https://iccv.thecvf.com/virtual/2025/poster/2534) | Peng Du | Supervised | ICCV 2025 | Super-resolution ||
+
 
 ### Image Restoration
 | Model | Paper | First Author | Training Way | Venue | Topic | Project |
@@ -169,6 +174,9 @@ University of Science and Technology of China (USTC), National University of Sin
 |GenDeg|[GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration](https://arxiv.org/abs/2411.17687) | Sudarshan Rajagopalan | Supervised | Preprint' 24 | All in one Image Restoration ||
 |CyclicPrompt|[Prompt to Restore, Restore to Prompt: Cyclic  Prompting for Universal Adverse Weather Removal](https://arxiv.org/abs/2503.09013) | Rongxin Liao | Supervised | Preprint' 25 | All in one Image Restoration ||
 |Diff-Restorer|[Diff-Restorer: Unleashing Visual Prompts for Diffusion-based Universal Image Restoration](https://arxiv.org/abs/2407.03636) | Yuhong Zhang | Supervised | Preprint' 24 | Image Restoration ||
+|WaveLLDM|[WaveLLDM: Design and Development of a Lightweight Latent Diffusion Model for Speech Enhancement and Restoration](https://arxiv.org/abs/2508.21153) | Kevin Putra Santoso | Supervised | Preprint' 2025 | Image Restoration ||
+|TinySR|[TinySR: Pruning Diffusion for Real-World Image Super-Resolution](https://arxiv.org/abs/2508.17434) | Linwei Dong | Supervised | Preprint' 2025 | Image Restoration ||
+|--|[Unlocking the Potential of Diffusion Priors in Blind Face Restoration](https://arxiv.org/abs/2508.08556) | Yunqi Miao | Supervised | Preprint' 2025 | Image Restoration ||
 |Res-Captioner|[Beyond Pixels: Text Enhances Generalization in Real-World Image Restoration](https://arxiv.org/abs/2412.00878) | Haoze Sun | Supervised | Preprint' 2024 | Image Restoration ||
 |HAODiff| [HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance](https://arxiv.org/abs/2505.19742) | Jue Gong | Supervised | Preprint'25 | Image Restoration | |
 |--|[Diffusion Posterior Proximal Sampling for Image Restoration](https://arxiv.org/abs/2402.16907) | Hongjie Wu | Zero-Shot | Preprint'24 | Multi-task Restoration | |
@@ -181,7 +189,10 @@ University of Science and Technology of China (USTC), National University of Sin
 |Diff-TTA|[Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal](https://arxiv.org/abs/2403.07684) | Yijun Yang | Supervised | CVPR 2024 | Video Restoration |[![Stars](https://img.shields.io/github/stars/scott-yjyang/DiffTTA.svg?style=social&label=Star)](https://github.com/scott-yjyang/DiffTTA)|
 |TDM|[TDM: Temporally-Consistent Diffusion Model for All-in-One Real-World Video Restoration](https://arxiv.org/abs/2501.02269) | Yizhou Li | Supervised | MMM 2025 | Video Restoration ||
 |UniFlowRestore|[UniFlowRestore: A General Video Restoration Framework via Flow Matching and Prompt Guidance](https://arxiv.org/abs/2504.09069) | Shuning Sun | Supervised | Preprint' 25 | Video Restoration ||
+|DiTVR|[DiTVR: Zero-Shot Diffusion Transformer for Video Restoration](https://arxiv.org/abs/2508.07811) | Sicheng Gao | Supervised | Preprint' 25 | Video Restoration ||
 |AverNet|[AverNet: All-in-one Video Restoration for Time-varying Unknown Degradations](https://papers.nips.cc/paper_files/paper/2024/hash/e635a25e49e73adc51f76aef462ff2f8-Abstract-Conference.html) | Haiyu Zhao | Supervised | NeurIPS 2024 | Video Restoration |[![Stars](https://img.shields.io/github/stars/XLearning-SCU/2024-NeurIPS-AverNet.svg?style=social&label=Star)](https://github.com/XLearning-SCU/2024-NeurIPS-AverNet)|
+
+
 ### Image Inpainting
 |Model| Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
