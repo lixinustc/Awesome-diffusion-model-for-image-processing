@@ -179,6 +179,7 @@ University of Science and Technology of China (USTC), National University of Sin
 |--|[Unlocking the Potential of Diffusion Priors in Blind Face Restoration](https://arxiv.org/abs/2508.08556) | Yunqi Miao | Supervised | Preprint' 2025 | Image Restoration ||
 |Res-Captioner|[Beyond Pixels: Text Enhances Generalization in Real-World Image Restoration](https://arxiv.org/abs/2412.00878) | Haoze Sun | Supervised | Preprint' 2024 | Image Restoration ||
 |HAODiff| [HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance](https://arxiv.org/abs/2505.19742) | Jue Gong | Supervised | Preprint'25 | Image Restoration | |
+|BIR-Adapter| [BIR-Adapter: A Low-Complexity Diffusion Model Adapter for Blind Image Restoration](https://arxiv.org/abs/2509.06904) | Cem Eteke | Supervised | Preprint'25 | Image Restoration | |
 |--|[Diffusion Posterior Proximal Sampling for Image Restoration](https://arxiv.org/abs/2402.16907) | Hongjie Wu | Zero-Shot | Preprint'24 | Multi-task Restoration | |
 |--|[Multiscale Structure Guided Diffusion for Image Deblurring](https://arxiv.org/abs/2212.01789) | Mengwei Ren | Supervised | Preprint'22 | Blind Restoration | |
 |--|[Synthesizing realistic image restoration training pairs: A diffusion approach](https://arxiv.org/abs/2303.06994) | Tao Yang | Supervised | Preprint'22 | Blind Restoration | |
