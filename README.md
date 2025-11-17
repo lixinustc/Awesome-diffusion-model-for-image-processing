@@ -7,7 +7,7 @@
 
 **Contributors for this Repo**：
 
-[Xin Li](http://home.ustc.edu.cn/~lixin666/), [Yulin Ren](https://scholar.google.com/citations?hl=en&user=234Nza8AAAAJ), [Bingchen Li](https://scholar.google.com/citations?user=qHeWjNwAAAAJ&hl=zh-CN), [Xijun Wang](), [Xin Jin](http://home.ustc.edu.cn/~jinxustc/), [Cuiling Lan](https://scholar.google.com/citations?user=XZugqiwAAAAJ&hl=en), [Xingrui Wang](https://scholar.google.com.hk/citations?user=cZEGgJ0AAAAJ&hl=zh-CN), [Wenjun Zeng](https://scholar.google.com/citations?user=_cUfvYQAAAAJ&hl=en), [Xinchao Wang](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=en), [Zhibo Chen](https://scholar.google.com/citations?user=1ayDJfsAAAAJ&hl=en)
+[Xin Li](http://home.ustc.edu.cn/~lixin666/), [Yulin Ren](https://scholar.google.com/citations?hl=en&user=234Nza8AAAAJ), [Bingchen Li](https://scholar.google.com/citations?user=qHeWjNwAAAAJ&hl=zh-CN), [Xijun Wang](https://scholar.google.com/citations?user=ccQh444AAAAJ), [Xin Jin](http://home.ustc.edu.cn/~jinxustc/), [Cuiling Lan](https://scholar.google.com/citations?user=XZugqiwAAAAJ&hl=en), [Xingrui Wang](https://scholar.google.com.hk/citations?user=cZEGgJ0AAAAJ&hl=zh-CN), [Wenjun Zeng](https://scholar.google.com/citations?user=_cUfvYQAAAAJ&hl=en), [Xinchao Wang](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=en), [Zhibo Chen](https://scholar.google.com/citations?user=1ayDJfsAAAAJ&hl=en)
 
 University of Science and Technology of China (USTC), National University of Singapore (NUS), Microsoft Research Asia (MSRA), Eastern Institute of Technology (EIT) 
 
@@ -348,6 +348,13 @@ Preprint'25 | Super-resolution |  [![Stars](https://img.shields.io/github/stars/
 |DP-IQA| [DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild](https://arxiv.org/abs/2405.19996) | Honghao Fu | Preprint'24 | Image quality assessment |[![Stars](https://img.shields.io/github/stars/RomGai/DP-IQA.svg?style=social&label=Star)](https://github.com/RomGai/DP-IQA)|
 |GenzIQA| [GenzIQA: Generalized Image Quality Assessment using Prompt-Guided Latent Diffusion Models](https://arxiv.org/abs/2406.04654) | Diptanu De | Preprint'24 | Image quality assessment ||
 |DiffV<sup>2</sup>IQA</span>| [Diffusion Model Based Visual Compensation Guidance and Visual Difference Analysis for No-Reference Image Quality Assessment](https://arxiv.org/abs/2402.14401) | Zhaoyang Wang | Preprint'24 | Image quality assessment ||
+
+# VAR-based SR/IR
+<a id="VAR"></a>
+|Model| Paper | First Author | Venue | Topic | Project |
+| :--- | :---: | :---: | :--: | :--: |:--: |
+|VARSR| [Visual Autoregressive Modeling for Image Super-Resolution](https://arxiv.org/abs/2501.18993) | Yunpeng Qu | Preprint'25 | Image Super Resolution |[![Stars](https://img.shields.io/github/stars/quyp2000/VARSR.svg?style=social&label=Star)](https://github.com/quyp2000/VARSR)|
+|RestoreVAR| [RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration](https://arxiv.org/abs/2505.18047) | Sudarshan Rajagopalan | Preprint'25 | Image Restoration |[![Stars](https://img.shields.io/github/stars/sudraj2002/RestoreVAR.svg?style=social&label=Star)](https://github.com/sudraj2002/RestoreVAR)|
 
 ## Cite US
 If this work is helpful to you, we expect you can cite this work and star this repo. Thanks.
