@@ -197,6 +197,9 @@ Preprint'25 | Super-resolution |  [![Stars](https://img.shields.io/github/stars/
 |UniFlowRestore|[UniFlowRestore: A General Video Restoration Framework via Flow Matching and Prompt Guidance](https://arxiv.org/abs/2504.09069) | Shuning Sun | Supervised | Preprint' 25 | Video Restoration ||
 |DiTVR|[DiTVR: Zero-Shot Diffusion Transformer for Video Restoration](https://arxiv.org/abs/2508.07811) | Sicheng Gao | Supervised | Preprint' 25 | Video Restoration ||
 |AverNet|[AverNet: All-in-one Video Restoration for Time-varying Unknown Degradations](https://papers.nips.cc/paper_files/paper/2024/hash/e635a25e49e73adc51f76aef462ff2f8-Abstract-Conference.html) | Haiyu Zhao | Supervised | NeurIPS 2024 | Video Restoration |[![Stars](https://img.shields.io/github/stars/XLearning-SCU/2024-NeurIPS-AverNet.svg?style=social&label=Star)](https://github.com/XLearning-SCU/2024-NeurIPS-AverNet)|
+|SeedVR|[SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration](https://arxiv.org/abs/2501.01320) | Jianyi Wang | Supervised | CVPR 2025 | Video Restoration |[![Stars](https://img.shields.io/github/stars/ByteDance-Seed/SeedVR.svg?style=social&label=Star)](https://github.com/ByteDance-Seed/SeedVR)|
+|SeedVR2|[One-Step Video Restoration via Diffusion Adversarial Post-Training](https://arxiv.org/abs/2506.05301) | Jianyi Wang | Supervised | Preprint' 2025 | Video Restoration |[![Stars](https://img.shields.io/github/stars/IceClear/SeedVR2.svg?style=social&label=Star)](https://github.com/IceClear/SeedVR2)|
+|FlashVSR|[FlashVSR: Towards Real-Time Diffusion-Based Streaming Video Super-Resolution](https://arxiv.org/abs/2510.12747) | Junhao Zhuang | Supervised | Preprint' 2025 | Video Restoration |[![Stars](https://img.shields.io/github/stars/OpenImagingLab/FlashVSR.svg?style=social&label=Star)](https://github.com/OpenImagingLab/FlashVSR)|
 
 
 ### Image Inpainting
