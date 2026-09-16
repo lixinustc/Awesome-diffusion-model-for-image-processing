@@ -286,6 +286,7 @@ Preprint'25 | Super-resolution |  [![Stars](https://img.shields.io/github/stars/
 |DMGASR|[Enhancing Hyperspectral Images via Diffusion Model and Group-Autoencoder Super-resolution Network](https://arxiv.org/abs/2402.17285) | Zhaoyang Wang | Supervised | Preprint'24 | hyperspectral images super-resolution | |
 |DRUS|[Ultrasound Image Reconstruction with Denoising Diffusion Restoration Models](https://arxiv.org/abs/2307.15990) | Yuxin Zhang | Zero-Shot | Preprint'23 | Ultrasound Image Reconstruction | [![Stars](https://img.shields.io/github/stars/yuxin-zhang-jasmine/drus-v1.svg?style=social&label=Star)](https://github.com/yuxin-zhang-jasmine/drus-v1) |
 |PromptRR|[PromptRR: Diffusion Models as Prompt Generators for Single Image Reflection Removal](https://arxiv.org/abs/2402.02374) | Tao Wang | Supervised | Preprint'24 | Image Reflection Removal | |
+|LumaFlux|[LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers](https://arxiv.org/abs/2604.02787) | Shreshth Saini | Supervised | Preprint'26 | SDR-to-HDR Inverse Tone Mapping (Image and Video) | [![Stars](https://img.shields.io/github/stars/shreshthsaini/LumaFlux.svg?style=social&label=Star)](https://github.com/shreshthsaini/LumaFlux) |
 
 |ColorFLUX|[ColorFLUX: A Structure-Color Decoupling Framework for Old Photo Colorization](https://arxiv.org/abs/2603.28162) | Bingchen Li | Supervised | CVPR 2026 | Old Photo Colorization | |
 
