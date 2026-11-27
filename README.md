@@ -291,6 +291,7 @@ Preprint'25 | Super-resolution |  [![Stars](https://img.shields.io/github/stars/
 
 |--| [Jpeg artifact correction using denoising diffusion restoration models](https://arxiv.org/abs/2209.11888) | Bahjat Kawar| Zero-Shot | NeurIPS 2022 | JPEG Artifacts Removal | [![Stars](https://img.shields.io/github/stars/bahjat-kawar/ddrm-jpeg.svg?style=social&label=Star)](https://github.com/bahjat-kawar/ddrm-jpeg) |
 |--|[Improved Diffusion-based Image Colorization via Piggybacked Models](https://arxiv.org/abs/2304.11105) | Hanyuan Liu | Zero-Shot | PrePrint'23 | Image Colorization | [![Stars](https://img.shields.io/github/stars/hyliu/piggyback-color.svg?style=social&label=Star)](https://github.com/hyliu/piggyback-color) |
+|DetFill|[Hint-AUC: Deterministic Region-based Hint Generation for Line Art Colorization Evaluation](https://doi.org/10.1109/TVCG.2026.3738401) | Koki Madono | Supervised | TVCG 2026 | Line Art Colorization | [![Stars](https://img.shields.io/github/stars/MADONOKOUKI/DetFill-with-DHT.svg?style=social&label=Star)](https://github.com/MADONOKOUKI/DetFill-with-DHT) |
 
 ### Benchmark Datasets
 |Dataset|Task|Usage|Year|
